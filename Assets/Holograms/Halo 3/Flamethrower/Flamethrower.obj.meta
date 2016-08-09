@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 891ef5bc6ee445b41aa2a85ce5dc16ee
+timeCreated: 1470686008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrels
+    100002: //RootNode
+    100004: fx_firing_light
+    100006: fx_overheat_drum
+    100008: gun
+    100010: gun_base1
+    100012: gunner_left_hand
+    100014: gunner_right_hand
+    100016: left_hand
+    100018: left_hand_elite
+    100020: pilot_flame
+    100022: primary_ejection
+    100024: primary_trigger
+    100026: right_hand
+    100028: right_hand_elite
+    400000: barrels
+    400002: //RootNode
+    400004: fx_firing_light
+    400006: fx_overheat_drum
+    400008: gun
+    400010: gun_base1
+    400012: gunner_left_hand
+    400014: gunner_right_hand
+    400016: left_hand
+    400018: left_hand_elite
+    400020: pilot_flame
+    400022: primary_ejection
+    400024: primary_trigger
+    400026: right_hand
+    400028: right_hand_elite
+    2300000: barrels
+    2300002: fx_firing_light
+    2300004: fx_overheat_drum
+    2300006: gun
+    2300008: gun_base1
+    2300010: gunner_left_hand
+    2300012: gunner_right_hand
+    2300014: left_hand
+    2300016: left_hand_elite
+    2300018: pilot_flame
+    2300020: primary_ejection
+    2300022: primary_trigger
+    2300024: right_hand
+    2300026: right_hand_elite
+    3300000: barrels
+    3300002: fx_firing_light
+    3300004: fx_overheat_drum
+    3300006: gun
+    3300008: gun_base1
+    3300010: gunner_left_hand
+    3300012: gunner_right_hand
+    3300014: left_hand
+    3300016: left_hand_elite
+    3300018: pilot_flame
+    3300020: primary_ejection
+    3300022: primary_trigger
+    3300024: right_hand
+    3300026: right_hand_elite
+    4300000: barrels
+    4300002: fx_firing_light
+    4300004: fx_overheat_drum
+    4300006: gun
+    4300008: gun_base1
+    4300010: gunner_left_hand
+    4300012: gunner_right_hand
+    4300014: left_hand
+    4300016: left_hand_elite
+    4300018: pilot_flame
+    4300020: primary_ejection
+    4300022: primary_trigger
+    4300024: right_hand
+    4300026: right_hand_elite
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

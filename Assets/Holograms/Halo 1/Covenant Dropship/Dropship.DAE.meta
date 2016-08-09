@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 014ed6bf819535d479def07492d8f8de
+timeCreated: 1470685838
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _cargo_ghost01
+    100004: _cargo_ghost02
+    100006: _cargo_ghost03
+    100008: _cargo_wraith
+    100010: _cd-passengerl01
+    100012: _cd-passengerl02
+    100014: _cd-passengerl03
+    100016: _cd-passengerl04
+    100018: _cd-passengerr01
+    100020: _cd-passengerr02
+    100022: _cd-passengerr03
+    100024: _cd-passengerr04
+    100026: _gunseat
+    100028: _hover_thrusters
+    100030: _hover_thrusters 1
+    100032: _hover_thrusters 2
+    100034: _hover_thrusters 3
+    100036: _hover_thrusters 4
+    100038: _hover_thrusters 5
+    100040: _hover_thrusters 6
+    100042: _hover_thrusters 7
+    100044: //RootNode
+    100046: frame_bay_door_left
+    100048: frame_bay_door_right
+    100050: frame_root
+    100052: VisualSceneNode
+    400000: __unnamed
+    400002: _cargo_ghost01
+    400004: _cargo_ghost02
+    400006: _cargo_ghost03
+    400008: _cargo_wraith
+    400010: _cd-passengerl01
+    400012: _cd-passengerl02
+    400014: _cd-passengerl03
+    400016: _cd-passengerl04
+    400018: _cd-passengerr01
+    400020: _cd-passengerr02
+    400022: _cd-passengerr03
+    400024: _cd-passengerr04
+    400026: _gunseat
+    400028: _hover_thrusters
+    400030: _hover_thrusters 1
+    400032: _hover_thrusters 2
+    400034: _hover_thrusters 3
+    400036: _hover_thrusters 4
+    400038: _hover_thrusters 5
+    400040: _hover_thrusters 6
+    400042: _hover_thrusters 7
+    400044: //RootNode
+    400046: frame_bay_door_left
+    400048: frame_bay_door_right
+    400050: frame_root
+    400052: VisualSceneNode
+    2300000: _cargo_ghost01
+    2300002: _cargo_ghost02
+    2300004: _cargo_ghost03
+    2300006: _cargo_wraith
+    2300008: _cd-passengerl01
+    2300010: _cd-passengerl02
+    2300012: _cd-passengerl03
+    2300014: _cd-passengerl04
+    2300016: _cd-passengerr01
+    2300018: _cd-passengerr02
+    2300020: _cd-passengerr03
+    2300022: _cd-passengerr04
+    2300024: _gunseat
+    2300026: _hover_thrusters
+    2300028: _hover_thrusters 1
+    2300030: _hover_thrusters 2
+    2300032: _hover_thrusters 3
+    2300034: _hover_thrusters 4
+    2300036: _hover_thrusters 5
+    2300038: _hover_thrusters 6
+    2300040: _hover_thrusters 7
+    3300000: _cargo_ghost01
+    3300002: _cargo_ghost02
+    3300004: _cargo_ghost03
+    3300006: _cargo_wraith
+    3300008: _cd-passengerl01
+    3300010: _cd-passengerl02
+    3300012: _cd-passengerl03
+    3300014: _cd-passengerl04
+    3300016: _cd-passengerr01
+    3300018: _cd-passengerr02
+    3300020: _cd-passengerr03
+    3300022: _cd-passengerr04
+    3300024: _gunseat
+    3300026: _hover_thrusters
+    3300028: _hover_thrusters 1
+    3300030: _hover_thrusters 2
+    3300032: _hover_thrusters 3
+    3300034: _hover_thrusters 4
+    3300036: _hover_thrusters 5
+    3300038: _hover_thrusters 6
+    3300040: _hover_thrusters 7
+    4300000: _cd-passengerl01
+    4300002: _cd-passengerl02
+    4300004: _cd-passengerr01
+    4300006: _cd-passengerl04
+    4300008: _cd-passengerl03
+    4300010: _cd-passengerr04
+    4300012: _cd-passengerr02
+    4300014: _cd-passengerr03
+    4300016: _hover_thrusters
+    4300018: _hover_thrusters
+    4300020: _hover_thrusters
+    4300022: _hover_thrusters
+    4300024: _hover_thrusters
+    4300026: _hover_thrusters
+    4300028: _hover_thrusters
+    4300030: _gunseat
+    4300032: _hover_thrusters
+    4300034: _cargo_ghost02
+    4300036: _cargo_ghost01
+    4300038: _cargo_ghost03
+    4300040: _cargo_wraith
+    4300042: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

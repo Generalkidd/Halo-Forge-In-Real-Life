@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d271e583bbdb9d545913182d255d4a6f
+timeCreated: 1470686068
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b40_bridgeramp
+    100002: b40_metal_plate_floor_ext
+    100004: b40_panels_generic_ext
+    100006: beavercreek_ladder
+    100008: cap_metal
+    100010: greenlight
+    100012: //RootNode
+    100014: icefields_arrow_white
+    100016: icefields_base_lights_blue
+    100018: icefields_base_lights_red
+    100020: icefields_base_roof
+    100022: icefields_base_stripes_blue
+    100024: icefields_base_stripes_red
+    100026: icefields_cliff_walls
+    100028: icefields_ground
+    100030: icefields_ground_ice
+    100032: icefields_ground_ice_patches
+    100034: icefields_ice_caves
+    100036: icefields_light
+    100038: icefields_symbol_blue
+    100040: icefields_symbol_red
+    100042: metal_flat_generic
+    100044: sidewinder_generator
+    100046: teleporter_shield
+    400000: b40_bridgeramp
+    400002: b40_metal_plate_floor_ext
+    400004: b40_panels_generic_ext
+    400006: beavercreek_ladder
+    400008: cap_metal
+    400010: greenlight
+    400012: //RootNode
+    400014: icefields_arrow_white
+    400016: icefields_base_lights_blue
+    400018: icefields_base_lights_red
+    400020: icefields_base_roof
+    400022: icefields_base_stripes_blue
+    400024: icefields_base_stripes_red
+    400026: icefields_cliff_walls
+    400028: icefields_ground
+    400030: icefields_ground_ice
+    400032: icefields_ground_ice_patches
+    400034: icefields_ice_caves
+    400036: icefields_light
+    400038: icefields_symbol_blue
+    400040: icefields_symbol_red
+    400042: metal_flat_generic
+    400044: sidewinder_generator
+    400046: teleporter_shield
+    2300000: b40_bridgeramp
+    2300002: b40_metal_plate_floor_ext
+    2300004: b40_panels_generic_ext
+    2300006: beavercreek_ladder
+    2300008: cap_metal
+    2300010: greenlight
+    2300012: icefields_arrow_white
+    2300014: icefields_base_lights_blue
+    2300016: icefields_base_lights_red
+    2300018: icefields_base_roof
+    2300020: icefields_base_stripes_blue
+    2300022: icefields_base_stripes_red
+    2300024: icefields_cliff_walls
+    2300026: icefields_ground
+    2300028: icefields_ground_ice
+    2300030: icefields_ground_ice_patches
+    2300032: icefields_ice_caves
+    2300034: icefields_light
+    2300036: icefields_symbol_blue
+    2300038: icefields_symbol_red
+    2300040: metal_flat_generic
+    2300042: sidewinder_generator
+    2300044: teleporter_shield
+    3300000: b40_bridgeramp
+    3300002: b40_metal_plate_floor_ext
+    3300004: b40_panels_generic_ext
+    3300006: beavercreek_ladder
+    3300008: cap_metal
+    3300010: greenlight
+    3300012: icefields_arrow_white
+    3300014: icefields_base_lights_blue
+    3300016: icefields_base_lights_red
+    3300018: icefields_base_roof
+    3300020: icefields_base_stripes_blue
+    3300022: icefields_base_stripes_red
+    3300024: icefields_cliff_walls
+    3300026: icefields_ground
+    3300028: icefields_ground_ice
+    3300030: icefields_ground_ice_patches
+    3300032: icefields_ice_caves
+    3300034: icefields_light
+    3300036: icefields_symbol_blue
+    3300038: icefields_symbol_red
+    3300040: metal_flat_generic
+    3300042: sidewinder_generator
+    3300044: teleporter_shield
+    4300000: b40_bridgeramp
+    4300002: b40_metal_plate_floor_ext
+    4300004: b40_panels_generic_ext
+    4300006: beavercreek_ladder
+    4300008: cap_metal
+    4300010: greenlight
+    4300012: icefields_arrow_white
+    4300014: icefields_base_lights_blue
+    4300016: icefields_base_lights_red
+    4300018: icefields_base_roof
+    4300020: icefields_base_stripes_blue
+    4300022: icefields_base_stripes_red
+    4300024: icefields_cliff_walls
+    4300026: icefields_ground
+    4300028: icefields_ground_ice
+    4300030: icefields_ground_ice_patches
+    4300032: icefields_ice_caves
+    4300034: icefields_light
+    4300036: icefields_symbol_blue
+    4300038: icefields_symbol_red
+    4300040: metal_flat_generic
+    4300042: sidewinder_generator
+    4300044: teleporter_shield
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

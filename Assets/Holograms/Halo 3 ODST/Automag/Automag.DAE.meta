@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: a8403107416605e42a1f7c10f38af3a9
+timeCreated: 1470686036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: analytical_specular_contribution
+    100002: analytical_specular_contribution_detail_map_overlay1
+    100004: //RootNode
+    100006: bulletwater_2
+    100008: first_person_throw_grenade
+    100010: flashlight
+    100012: left_hand
+    100014: order3_area_specular
+    100016: order3_area_specular_ncl1_1
+    100018: primary_trigger
+    100020: smg_dual_pose_l1
+    100022: smg_dual_pose_l2
+    100024: smg_dual_pose_l3
+    100026: smg_dual_pose_r1
+    100028: smg_dual_pose_r2
+    100030: smg_dual_pose_r3
+    100032: weapon_stow_anchor
+    400000: analytical_specular_contribution
+    400002: analytical_specular_contribution_detail_map_overlay1
+    400004: //RootNode
+    400006: bulletwater_2
+    400008: first_person_throw_grenade
+    400010: flashlight
+    400012: left_hand
+    400014: order3_area_specular
+    400016: order3_area_specular_ncl1_1
+    400018: primary_trigger
+    400020: smg_dual_pose_l1
+    400022: smg_dual_pose_l2
+    400024: smg_dual_pose_l3
+    400026: smg_dual_pose_r1
+    400028: smg_dual_pose_r2
+    400030: smg_dual_pose_r3
+    400032: weapon_stow_anchor
+    2300000: analytical_specular_contribution_detail_map_overlay1
+    2300002: bulletwater_2
+    2300004: flashlight
+    2300006: left_hand
+    2300008: order3_area_specular_ncl1_1
+    2300010: primary_trigger
+    2300012: smg_dual_pose_r1
+    2300014: smg_dual_pose_r2
+    2300016: smg_dual_pose_r3
+    2300018: weapon_stow_anchor
+    3300000: analytical_specular_contribution_detail_map_overlay1
+    3300002: bulletwater_2
+    3300004: flashlight
+    3300006: left_hand
+    3300008: order3_area_specular_ncl1_1
+    3300010: primary_trigger
+    3300012: smg_dual_pose_r1
+    3300014: smg_dual_pose_r2
+    3300016: smg_dual_pose_r3
+    3300018: weapon_stow_anchor
+    4300000: flashlight
+    4300002: bulletwater_2
+    4300004: left_hand
+    4300006: smg_dual_pose_r1
+    4300008: smg_dual_pose_r2
+    4300010: order3_area_specular_ncl1_1
+    4300012: primary_trigger
+    4300014: smg_dual_pose_r3
+    4300016: weapon_stow_anchor
+    4300018: analytical_specular_contribution_detail_map_overlay1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

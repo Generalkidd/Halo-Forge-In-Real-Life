@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Shadowth117</author>
+      <authoring_tool>3dsMax 11 - Feeling ColladaMax v3.05B.</authoring_tool>
+      <comments>ColladaMax Export Options: ExportNormals=1;ExportEPolyAsTriangles=1;ExportXRefs=1;ExportSelected=0;ExportTangents=0;ExportAnimations=1;SampleAnim=0;ExportAnimClip=0;BakeMatrices=0;ExportRelativePaths=1;AnimStart=0;AnimEnd=3.33333;</comments>
+      <source_data>file:///F:/Softwrap/YOYOGAMESGM70FINAL/Pre%20Nuke%20HD%20files/Public%20Documents/Documents/Spriter%27s%20resource/Models/Halo/Levels/Ice%20Fields/Scenery/mp_boulder_snow_large_03.max</source_data>
+    </contributor>
+    <created>2010-04-26T15:59:27Z</created>
+    <modified>2010-04-26T15:59:28Z</modified>
+    <unit meter="0.0254" name="inch"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="boulder_snow_large.png" name="boulder_snow_large_png">
+      <init_from>./boulder_snow_large.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="boulder_snow_large" name="boulder_snow_large">
+      <instance_effect url="#boulder_snow_large-fx"/>
+    </material>
+  </library_materials>
+  <library_effects>
+    <effect id="boulder_snow_large-fx" name="boulder_snow_large">
+      <profile_COMMON>
+        <newparam sid="boulder_snow_large_png-surface">
+          <surface type="2D">
+            <init_from>boulder_snow_large.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="boulder_snow_large_png-sampler">
+          <sampler2D>
+            <source>boulder_snow_large_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="boulder_snow_large_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0.415939</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <reflectivity>
+              <float>1</float>
+            </reflectivity>
+            <transparent opaque="A_ONE">
+              <color>1 1 1 1</color>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+          <extra>
+            <technique profile="FCOLLADA">
+              <spec_level>
+                <float>0</float>
+              </spec_level>
+              <emission_level>
+                <float>0</float>
+              </emission_level>
+            </technique>
+          </extra>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="MAX3D">
+          <faceted>0</faceted>
+          <double_sided>0</double_sided>
+          <wireframe>0</wireframe>
+          <face_map>0</face_map>
+        </technique>
+      </extra>
+    </effect>
+  </library_effects>
+  <library_geometries>
+    <geometry id="boulder-mesh" name="boulder">
+      <mesh>
+        <source id="boulder-mesh-positions">
+          <float_array id="boulder-mesh-positions-array" count="171">66.3174 -95.8529 -16 60.961 -93.1119 22.1197 88.7272 -76.0964 -16 76.1397 -73.0933 33.4256 83.8663 -44.9877 24.8873 98.4158 -46.134 -16 86.7537 3.99163 -17.9948 76.9277 5.13669 16.7897 69.2706 30.903 13.7736 81.4853 38.0791 -19.5277 55.3994 54.565 19.6414 64.3631 68.7472 -21.1471 28.9979 64.4257 22.4111 34.5101 87.769 -23.6656 -0.000015 95.278 5.37039 -9.26744 112.435 -23.1388 -46.4529 94.0707 3.14998 -49.2901 106.987 -22.2819 -73.8874 70.2983 8.96885 -73.8702 82.6492 -19.7767 -88.4111 23.2495 38.3626 -96.9837 49.165 -16.1818 -102.785 21.3824 -16 -86.2908 -15.1296 41.5934 -100.512 -23.6665 -16 -80.683 -44.6023 -16 -60.5402 -41.4928 25.8203 -44.3956 -61.2812 -16 -35.6048 -58.809 29.0979 -24.3918 -65.4269 -16 -1.56878 -85.4776 22.7137 0.358044 -84.2863 -16 23.0568 -90.0169 15.8112 26.8008 -90.0711 -16 51.0831 -75.3122 59.2552 18.2356 -73.3944 55.2637 -1.17698 -64.3458 64.1706 -12.4514 -41.0602 73.2897 -14.4277 -15.1533 74.529 -34.3167 -4.28587 85.6783 -61.9924 0.700819 82.8551 -63.7686 25.2589 79.6854 -30.2468 50.6052 67.3082 -33.8413 70.8429 33.6793 -7.07176 69.978 34.3238 27.7943 43.155 40.2899 48.7176 10.4012 45.3189 49.7921 -16.7711 49.3916 56.0062 -49.8934 60.7904 -26.5384 21.9536 82.5076 -13.271 34.4425 70.4034 3.45671 25.0843 61.5393 2.06772 43.7292 59.1476 19.3865 15.743 55.419 18.1273 -9.15064 68.0875 21.0525 -38.2118 76.6654 39.7991 -55.1584 71.8488</float_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-positions-array" count="57" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="boulder-mesh-normals">
+          <float_array id="boulder-mesh-normals-array" count="171">0.836372 -0.487591 0.250472 0.286628 -0.917122 0.277005 0.310391 -0.944048 0.111495 0.795574 -0.396507 0.458088 0.881945 0.05267 0.468401 0.941365 -0.031941 0.335874 0.929423 0.208048 0.304776 0.847807 0.239236 0.473275 0.820638 0.30067 0.485954 0.874316 0.315595 0.368744 0.579178 0.585136 0.567599 0.620238 0.674283 0.400809 0.377535 0.69756 0.608997 0.479799 0.771706 0.417447 0.246493 0.807675 0.535632 0.13957 0.877647 0.458536 -0.297967 0.781872 0.547624 -0.33812 0.834732 0.434623 -0.710148 0.591605 0.381699 -0.720218 0.624329 0.302488 -0.893511 0.221678 0.390509 -0.838571 0.429096 0.335671 -0.965582 0.075242 0.248976 -0.768023 -0.433676 0.471239 -0.881103 -0.38501 0.274636 -0.561418 -0.777616 0.283061 -0.483304 -0.758712 0.436776 -0.355524 -0.919726 0.166455 -0.585287 -0.722724 0.367573 -0.455646 -0.89009 0.011223 -0.368519 -0.910221 0.188924 -0.411026 -0.910597 -0.043253 -0.128038 -0.979257 0.157041 -0.159475 -0.987202 0.000588 0.308091 -0.629567 0.71325 -0.103238 -0.788335 0.606523 -0.271089 -0.653785 0.706453 -0.477754 -0.219215 0.850703 0.049727 -0.227405 0.97253 0.036629 -0.380194 0.924181 -0.45808 -0.352806 0.815899 -0.50831 0.355018 0.784592 0.021264 0.721456 0.692134 -0.141302 0.781057 0.608263 0.161338 0.705899 0.689694 0.422432 0.484331 0.766143 0.568374 0.268442 0.777747 0.617124 0.239287 0.7496 0.646665 0.124207 0.752593 0.288281 0.225657 0.930577 0.434514 0.300821 0.848943 0.45822 0.116514 0.881169 0.428673 0.49722 0.754329 0.387443 0.306393 0.869489 0.269951 0.314536 0.910051 0.154874 0.010411 0.987879 0.233179 -0.176729 0.95624</float_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-normals-array" count="57" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="boulder-mesh-map-channel1">
+          <float_array id="boulder-mesh-map-channel1-array" count="171">0.048125 -0.374077 0 0.147272 -0.388987 0 0.017309 -0.5131 0 0.142154 -0.489427 0 0.173114 -0.604783 0 0.051549 -0.652123 0 0.218901 -0.825341 0 0.299054 -0.761188 0 0.381801 -0.821554 0 0.333997 -0.93668 0 0.477826 -0.861728 0 0.479552 -0.996396 0 0.578113 -0.825749 0 0.63021 -0.964926 0 0.720486 -0.823578 0 0.823228 -0.906861 0 0.842062 -0.677125 0 0.939518 -0.73596 0 0.875228 -0.494113 0 0.969242 -0.518761 0 0.834199 -0.250673 0 0.975435 -0.294584 0 0.936902 -0.169404 0 0.759554 -0.14712 0 0.835632 -0.026737 0 0.725357 0.000406 0 0.632389 -0.121354 0 0.555415 -0.022689 0 0.516712 -0.140242 0 0.46695 -0.067225 0 0.355976 -0.17992 0 0.32162 -0.110278 0 0.266632 -0.261146 0 0.203123 -0.224442 0 0.269123 -0.416063 0 0.349398 -0.331794 0 0.41511 -0.291535 0 0.481282 -0.29669 0 0.532038 -0.340246 0 0.601907 -0.318881 0 0.677127 -0.284848 0 0.718695 -0.338375 0 0.681576 -0.506422 0 0.717972 -0.607129 0 0.657434 -0.692498 0 0.530816 -0.707953 0 0.41991 -0.659825 0 0.370006 -0.577437 0 0.298778 -0.491642 0 0.627281 -0.412825 0 0.616485 -0.511061 0 0.560584 -0.541032 0 0.595571 -0.618629 0 0.504684 -0.571003 0 0.461389 -0.468157 0 0.401121 -0.399809 0 0.326635 -0.425184 0</float_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-map-channel1-array" count="57" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="boulder-mesh-vertices">
+          <input semantic="POSITION" source="#boulder-mesh-positions"/>
+        </vertices>
+        <triangles material="boulder_snow_large" count="94">
+          <input semantic="VERTEX" source="#boulder-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#boulder-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#boulder-mesh-map-channel1" offset="2" set="1"/>
+          <p>2 0 2 1 1 1 0 2 0 1 1 1 2 0 2 3 3 3 3 3 3 2 0 2 4 4 4 5 5 5 4 4 4 2 0 2 6 6 6 4 4 4 5 5 5 4 4 4 6 6 6 7 7 7 7 7 7 6 6 6 8 8 8 9 9 9 8 8 8 6 6 6 8 8 8 9 9 9 10 10 10 11 11 11 10 10 10 9 9 9 10 10 10 11 11 11 12 12 12 13 13 13 12 12 12 11 11 11 12 12 12 13 13 13 14 14 14 15 15 15 14 14 14 13 13 13 14 14 14 15 15 15 16 16 16 17 17 17 16 16 16 15 15 15 16 16 16 17 17 17 18 18 18 19 19 19 18 18 18 17 17 17 18 18 18 19 19 19 20 20 20 21 21 21 20 20 20 19 19 19 22 22 22 20 20 20 21 21 21 20 20 20 22 22 22 23 23 23 24 24 24 23 23 23 22 22 22 25 25 25 23 23 23 24 24 24 23 23 23 25 25 25 26 26 26 27 27 27 26 26 26 25 25 25 26 26 26 27 27 27 28 28 28 29 29 29 28 28 28 27 27 27 28 28 28 29 29 29 30 30 30 31 31 31 30 30 30 29 29 29 30 30 30 31 31 31 32 32 32 33 33 33 32 32 32 31 31 31 32 32 32 33 33 33 1 1 1 0 2 0 1 1 1 33 33 33 1 1 1 34 34 34 32 32 32 35 35 35 32 32 32 34 34 34 32 32 32 35 35 35 30 30 30 36 36 36 30 30 30 35 35 35 30 30 30 36 36 36 28 28 28 37 37 37 28 28 28 36 36 36 38 38 38 28 28 28 37 37 37 28 28 28 38 38 38 26 26 26 39 39 39 26 26 26 38 38 38 26 26 26 39 39 39 23 23 23 40 40 40 23 23 23 39 39 39 23 23 23 40 40 40 20 20 20 41 41 41 20 20 20 40 40 40 20 20 20 41 41 41 18 18 18 42 42 42 18 18 18 41 41 41 43 43 43 18 18 18 42 42 42 18 18 18 43 43 43 16 16 16 16 16 16 43 43 43 14 14 14 44 44 44 14 14 14 43 43 43 14 14 14 44 44 44 12 12 12 45 45 45 12 12 12 44 44 44 12 12 12 45 45 45 10 10 10 46 46 46 10 10 10 45 45 45 10 10 10 46 46 46 8 8 8 8 8 8 46 46 46 7 7 7 47 47 47 7 7 7 46 46 46 7 7 7 47 47 47 4 4 4 48 48 48 4 4 4 47 47 47 4 4 4 48 48 48 3 3 3 34 34 34 3 3 3 48 48 48 3 3 3 34 34 34 1 1 1 39 39 39 49 49 49 40 40 40 38 38 38 49 49 49 39 39 39 49 49 49 38 38 38 50 50 50 51 51 51 50 50 50 38 38 38 52 52 52 50 50 50 51 51 51 42 42 42 50 50 50 52 52 52 50 50 50 42 42 42 49 49 49 41 41 41 49 49 49 42 42 42 49 49 49 41 41 41 40 40 40 52 52 52 43 43 43 42 42 42 43 43 43 52 52 52 44 44 44 44 44 44 52 52 52 45 45 45 45 45 45 52 52 52 53 53 53 51 51 51 53 53 53 52 52 52 38 38 38 53 53 53 51 51 51 53 53 53 38 38 38 54 54 54 37 37 37 54 54 54 38 38 38 54 54 54 37 37 37 55 55 55 36 36 36 55 55 55 37 37 37 35 35 35 55 55 55 36 36 36 55 55 55 35 35 35 56 56 56 34 34 34 56 56 56 35 35 35 48 48 48 56 56 56 34 34 34 47 47 47 56 56 56 48 48 48 56 56 56 47 47 47 55 55 55 55 55 55 47 47 47 54 54 54 46 46 46 54 54 54 47 47 47 54 54 54 46 46 46 53 53 53 45 45 45 53 53 53 46 46 46</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers>
+    <controller id="boulder-mesh-skin">
+      <skin source="#boulder-mesh">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="boulder-mesh-skin-joints">
+          <Name_array id="boulder-mesh-skin-joints-array" count="1">Bone1</Name_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-skin-joints-array" count="1" stride="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="boulder-mesh-skin-bind_poses">
+          <float_array id="boulder-mesh-skin-bind_poses-array" count="16">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-skin-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="boulder-mesh-skin-weights">
+          <float_array id="boulder-mesh-skin-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#boulder-mesh-skin-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#boulder-mesh-skin-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#boulder-mesh-skin-bind_poses"/>
+        </joints>
+        <vertex_weights count="57">
+          <input semantic="JOINT" source="#boulder-mesh-skin-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#boulder-mesh-skin-weights" offset="1"/>
+          <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+  </library_controllers>
+  <library_visual_scenes>
+    <visual_scene id="mp_boulder_snow_large_03.max" name="mp_boulder_snow_large_03_max">
+      <node id="frame_base-node" name="frame_base" sid="Bone1" type="JOINT">
+        <translate>0 0 0</translate>
+      </node>
+      <node id="boulder-node" name="boulder" type="NODE">
+        <instance_controller url="#boulder-mesh-skin">
+          <skeleton>#frame_base-node</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="boulder_snow_large" target="#boulder_snow_large">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="1"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <extra>
+        <technique profile="FCOLLADA">
+          <start_time>0</start_time>
+          <end_time>3.33333</end_time>
+        </technique>
+      </extra>
+      <extra>
+        <technique profile="MAX3D">
+          <frame_rate>30</frame_rate>
+        </technique>
+      </extra>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#mp_boulder_snow_large_03.max"/>
+  </scene>
+</COLLADA>

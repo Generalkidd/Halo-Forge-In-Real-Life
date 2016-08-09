@@ -1,0 +1,54 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 22.03.2010 22:02:23
+
+newmtl wire_174186203
+	Ns 32
+	d 1
+	Tr 1
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6824 0.7294 0.7961
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_028089177
+	Ns 32
+	d 1
+	Tr 1
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1098 0.3490 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Grunt_Head_and_Tank
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt head and back_bitmap_2.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt head and back_bitmap_2.png
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt head and back multi_bitmap_2.png
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt head and back multi_bitmap_2.png
+
+newmtl grunt_torso
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt torso_bitmap_2.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt torso_bitmap_2.png
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt torso multi_bitmap_2.png
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Characters\Grunt\grunt torso multi_bitmap_2.png

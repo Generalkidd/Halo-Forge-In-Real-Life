@@ -1,0 +1,76 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 23.01.2011 23:07:58
+
+newmtl timberland_sky_dusk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka timberland_sky_dusk.png
+	map_Kd timberland_sky_dusk.png
+
+newmtl timberland_threshold_dusk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka timberland_threshold_dusk.png
+	map_Kd timberland_threshold_dusk.png
+	map_d timberland_threshold_dusk.png
+
+newmtl timberland_basis_dusk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka timberland_basis_dusk.png
+	map_Kd timberland_basis_dusk.png
+	map_d timberland_basis_dusk.png
+
+newmtl timberland_ring_dusk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka timberland_ring_dusk.png
+	map_Kd timberland_ring_dusk.png
+	map_d timberland_ring_dusk.png
+
+newmtl timberland_clouds_dusk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka timberland_clouds_dusk.png
+	map_Kd timberland_clouds_dusk.png
+	map_d timberland_clouds_dusk.png

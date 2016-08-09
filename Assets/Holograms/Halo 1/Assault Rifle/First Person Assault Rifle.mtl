@@ -1,0 +1,71 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__119 (8) to come 
+#
+newmtl grip
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl gun
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Screen1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Screen2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Compass
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Left_Number
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Right_Number
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Ammo_icon
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__119 done 
+#
+# EOF

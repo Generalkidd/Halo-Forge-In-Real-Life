@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: c9a90661de5a09b439200d533b37dc66
+timeCreated: 1470686061
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _flashlight
+    100004: _primary_trigger
+    100006: _smoke
+    100008: //RootNode
+    100010: frame_body
+    100012: frame_eneedle13
+    100014: frame_needle01
+    100016: frame_needle02
+    100018: frame_needle03
+    100020: frame_needle04
+    100022: frame_needle05
+    100024: frame_needle06
+    100026: frame_needle07
+    100028: frame_needle08
+    100030: frame_needle09
+    100032: frame_needle10
+    100034: frame_needle11
+    100036: frame_needle12
+    100038: frame_needle14
+    100040: frame_needle15
+    100042: frame_needle16
+    400000: __unnamed
+    400002: _flashlight
+    400004: _primary_trigger
+    400006: _smoke
+    400008: //RootNode
+    400010: frame_body
+    400012: frame_eneedle13
+    400014: frame_needle01
+    400016: frame_needle02
+    400018: frame_needle03
+    400020: frame_needle04
+    400022: frame_needle05
+    400024: frame_needle06
+    400026: frame_needle07
+    400028: frame_needle08
+    400030: frame_needle09
+    400032: frame_needle10
+    400034: frame_needle11
+    400036: frame_needle12
+    400038: frame_needle14
+    400040: frame_needle15
+    400042: frame_needle16
+    2300000: __unnamed
+    2300002: _flashlight
+    2300004: _primary_trigger
+    2300006: _smoke
+    2300008: frame_body
+    2300010: frame_eneedle13
+    2300012: frame_needle01
+    2300014: frame_needle02
+    2300016: frame_needle03
+    2300018: frame_needle04
+    2300020: frame_needle05
+    2300022: frame_needle06
+    2300024: frame_needle07
+    2300026: frame_needle08
+    2300028: frame_needle09
+    2300030: frame_needle10
+    2300032: frame_needle11
+    2300034: frame_needle12
+    2300036: frame_needle14
+    2300038: frame_needle15
+    2300040: frame_needle16
+    3300000: __unnamed
+    3300002: _flashlight
+    3300004: _primary_trigger
+    3300006: _smoke
+    3300008: frame_body
+    3300010: frame_eneedle13
+    3300012: frame_needle01
+    3300014: frame_needle02
+    3300016: frame_needle03
+    3300018: frame_needle04
+    3300020: frame_needle05
+    3300022: frame_needle06
+    3300024: frame_needle07
+    3300026: frame_needle08
+    3300028: frame_needle09
+    3300030: frame_needle10
+    3300032: frame_needle11
+    3300034: frame_needle12
+    3300036: frame_needle14
+    3300038: frame_needle15
+    3300040: frame_needle16
+    4300000: __unnamed
+    4300002: _flashlight
+    4300004: _primary_trigger
+    4300006: _smoke
+    4300008: frame_body
+    4300010: frame_eneedle13
+    4300012: frame_needle01
+    4300014: frame_needle02
+    4300016: frame_needle03
+    4300018: frame_needle04
+    4300020: frame_needle05
+    4300022: frame_needle06
+    4300024: frame_needle07
+    4300026: frame_needle08
+    4300028: frame_needle09
+    4300030: frame_needle10
+    4300032: frame_needle11
+    4300034: frame_needle12
+    4300036: frame_needle14
+    4300038: frame_needle15
+    4300040: frame_needle16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 53da646ca3215bb46ad5a6d1b1a4051a
+timeCreated: 1470685956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _cannon_flash
+    100002: _driver
+    100004: _driver_enter
+    100006: _engine
+    100008: _flash
+    100010: _flash 1
+    100012: _flash 2
+    100014: _gunner
+    100016: _headlight
+    100018: _left_hand_lb
+    100020: _left_hand_lf
+    100022: _left_hand_rb
+    100024: _left_hand_rf
+    100026: _medium_antenna
+    100028: _passenger_lb
+    100030: _passenger_lb_camera
+    100032: _passenger_lb_enter
+    100034: _passenger_lf
+    100036: _passenger_lf_camera
+    100038: _passenger_lf_enter
+    100040: _passenger_rb
+    100042: _passenger_rb_camera
+    100044: _passenger_rb_enter
+    100046: _passenger_rf
+    100048: _passenger_rf_camera
+    100050: _passenger_rf_enter
+    100052: _primary_trigger
+    100054: _secondary_ejection
+    100056: _secondary_trigger
+    100058: _short_antenna
+    100060: frame_aiming_gun
+    100062: frame_cannon
+    100064: frame_hatch_driver
+    100066: frame_hatch_passenger
+    100068: frame_hull
+    100070: frame_left_back_tread
+    100072: frame_left_front_tread
+    100074: frame_right_back_tread
+    100076: frame_right_front_tread
+    100078: frame_turret
+    100080: frame_turret_rotator
+    100082: //RootNode
+    100084: tank
+    100086: tread
+    400000: _cannon_flash
+    400002: _driver
+    400004: _driver_enter
+    400006: _engine
+    400008: _flash
+    400010: _flash 1
+    400012: _flash 2
+    400014: _gunner
+    400016: _headlight
+    400018: _left_hand_lb
+    400020: _left_hand_lf
+    400022: _left_hand_rb
+    400024: _left_hand_rf
+    400026: _medium_antenna
+    400028: _passenger_lb
+    400030: _passenger_lb_camera
+    400032: _passenger_lb_enter
+    400034: _passenger_lf
+    400036: _passenger_lf_camera
+    400038: _passenger_lf_enter
+    400040: _passenger_rb
+    400042: _passenger_rb_camera
+    400044: _passenger_rb_enter
+    400046: _passenger_rf
+    400048: _passenger_rf_camera
+    400050: _passenger_rf_enter
+    400052: _primary_trigger
+    400054: _secondary_ejection
+    400056: _secondary_trigger
+    400058: _short_antenna
+    400060: frame_aiming_gun
+    400062: frame_cannon
+    400064: frame_hatch_driver
+    400066: frame_hatch_passenger
+    400068: frame_hull
+    400070: frame_left_back_tread
+    400072: frame_left_front_tread
+    400074: frame_right_back_tread
+    400076: frame_right_front_tread
+    400078: frame_turret
+    400080: frame_turret_rotator
+    400082: //RootNode
+    400084: tank
+    400086: tread
+    2300000: _cannon_flash
+    2300002: _driver
+    2300004: _driver_enter
+    2300006: _engine
+    2300008: _flash
+    2300010: _flash 1
+    2300012: _flash 2
+    2300014: _gunner
+    2300016: _headlight
+    2300018: _left_hand_lb
+    2300020: _left_hand_lf
+    2300022: _left_hand_rb
+    2300024: _left_hand_rf
+    2300026: _medium_antenna
+    2300028: _passenger_lb
+    2300030: _passenger_lb_camera
+    2300032: _passenger_lb_enter
+    2300034: _passenger_lf
+    2300036: _passenger_lf_camera
+    2300038: _passenger_lf_enter
+    2300040: _passenger_rb
+    2300042: _passenger_rb_camera
+    2300044: _passenger_rb_enter
+    2300046: _passenger_rf
+    2300048: _passenger_rf_camera
+    2300050: _passenger_rf_enter
+    2300052: _primary_trigger
+    2300054: _secondary_ejection
+    2300056: _secondary_trigger
+    2300058: _short_antenna
+    3300000: _cannon_flash
+    3300002: _driver
+    3300004: _driver_enter
+    3300006: _engine
+    3300008: _flash
+    3300010: _flash 1
+    3300012: _flash 2
+    3300014: _gunner
+    3300016: _headlight
+    3300018: _left_hand_lb
+    3300020: _left_hand_lf
+    3300022: _left_hand_rb
+    3300024: _left_hand_rf
+    3300026: _medium_antenna
+    3300028: _passenger_lb
+    3300030: _passenger_lb_camera
+    3300032: _passenger_lb_enter
+    3300034: _passenger_lf
+    3300036: _passenger_lf_camera
+    3300038: _passenger_lf_enter
+    3300040: _passenger_rb
+    3300042: _passenger_rb_camera
+    3300044: _passenger_rb_enter
+    3300046: _passenger_rf
+    3300048: _passenger_rf_camera
+    3300050: _passenger_rf_enter
+    3300052: _primary_trigger
+    3300054: _secondary_ejection
+    3300056: _secondary_trigger
+    3300058: _short_antenna
+    4300000: _left_hand_lb
+    4300002: _passenger_lb
+    4300004: _passenger_lb_enter
+    4300006: _passenger_lb_camera
+    4300008: _passenger_lf
+    4300010: _left_hand_lf
+    4300012: _passenger_lf_camera
+    4300014: _passenger_rb
+    4300016: _left_hand_rb
+    4300018: _passenger_rb_camera
+    4300020: _passenger_rb_enter
+    4300022: _passenger_rf
+    4300024: _passenger_rf_enter
+    4300026: _passenger_rf_camera
+    4300028: _left_hand_rf
+    4300030: _cannon_flash
+    4300032: _primary_trigger
+    4300034: _secondary_ejection
+    4300036: _flash
+    4300038: _secondary_trigger
+    4300040: _flash
+    4300042: _flash
+    4300044: _medium_antenna
+    4300046: _short_antenna
+    4300048: _driver
+    4300050: _headlight
+    4300052: _passenger_lf_enter
+    4300054: _gunner
+    4300056: _driver_enter
+    4300058: _engine
+    4300060: tank
+    4300062: tread
+    9500000: //RootNode
+    13700000: tank
+    13700002: tread
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

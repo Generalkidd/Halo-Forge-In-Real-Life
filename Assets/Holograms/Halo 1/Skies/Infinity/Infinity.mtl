@@ -1,0 +1,76 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 23.01.2011 22:44:01
+
+newmtl sky_clear_blue
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka sky clear blue.png
+	map_Kd sky clear blue.png
+	map_d sky clear blue.png
+
+newmtl threshold_clear_afternoon
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka threshold clear afternoon.png
+	map_Kd threshold clear afternoon.png
+	map_d threshold clear afternoon.png
+
+newmtl basis_clear_afternoon
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka basis clear afternoon.png
+	map_Kd basis clear afternoon.png
+	map_d basis clear afternoon.png
+
+newmtl ring_clear_afternoon
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ring clear afternoon.png
+	map_Kd ring clear afternoon.png
+	map_d ring clear afternoon.png
+
+newmtl clouds_puffy_light
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka clouds puffy light.png
+	map_Kd clouds puffy light.png

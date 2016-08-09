@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: bacc85b9d83278149acab50a913a94a8
+timeCreated: 1470686048
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: analytical_specular_contribution
+    100002: environment_map_specular_contribution
+    100004: fa_dare_follow_04_fa_dare_follow_041
+    100006: flashlight
+    100008: left_hand
+    100010: order3_area_specular
+    100012: primary_trigger
+    100014: //RootNode
+    100016: use_material_texture
+    100018: weapon_stow_anchor
+    400000: analytical_specular_contribution
+    400002: environment_map_specular_contribution
+    400004: fa_dare_follow_04_fa_dare_follow_041
+    400006: flashlight
+    400008: left_hand
+    400010: order3_area_specular
+    400012: primary_trigger
+    400014: //RootNode
+    400016: use_material_texture
+    400018: weapon_stow_anchor
+    2300000: fa_dare_follow_04_fa_dare_follow_041
+    2300002: flashlight
+    2300004: left_hand
+    2300006: primary_trigger
+    2300008: weapon_stow_anchor
+    3300000: fa_dare_follow_04_fa_dare_follow_041
+    3300002: flashlight
+    3300004: left_hand
+    3300006: primary_trigger
+    3300008: weapon_stow_anchor
+    4300000: flashlight
+    4300002: left_hand
+    4300004: primary_trigger
+    4300006: weapon_stow_anchor
+    4300008: fa_dare_follow_04_fa_dare_follow_041
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

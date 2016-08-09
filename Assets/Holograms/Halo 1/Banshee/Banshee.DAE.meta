@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 2c95738a82510a743a014d521520d0ce
+timeCreated: 1470685880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _cockpit_light
+    100004: _driver
+    100006: _driver_enter
+    100008: _driver_enter-hint
+    100010: _engine
+    100012: _hover_thrusters
+    100014: _hover_thrusters 1
+    100016: _hover_thrusters 2
+    100018: _hover_thrusters 3
+    100020: _primary_trigger
+    100022: _primary_trigger 1
+    100024: _secondary_trigger
+    100026: _winglight_back
+    100028: _winglight_back 1
+    100030: _winglight_front
+    100032: _winglight_front 1
+    100034: _wingtip
+    100036: _wingtip 1
+    100038: //RootNode
+    100040: frame_cab
+    100042: frame_hull
+    100044: frame_left_rudder
+    100046: frame_right_rudder
+    400000: __unnamed
+    400002: _cockpit_light
+    400004: _driver
+    400006: _driver_enter
+    400008: _driver_enter-hint
+    400010: _engine
+    400012: _hover_thrusters
+    400014: _hover_thrusters 1
+    400016: _hover_thrusters 2
+    400018: _hover_thrusters 3
+    400020: _primary_trigger
+    400022: _primary_trigger 1
+    400024: _secondary_trigger
+    400026: _winglight_back
+    400028: _winglight_back 1
+    400030: _winglight_front
+    400032: _winglight_front 1
+    400034: _wingtip
+    400036: _wingtip 1
+    400038: //RootNode
+    400040: frame_cab
+    400042: frame_hull
+    400044: frame_left_rudder
+    400046: frame_right_rudder
+    2300000: _cockpit_light
+    2300002: _driver
+    2300004: _driver_enter
+    2300006: _driver_enter-hint
+    2300008: _engine
+    2300010: _hover_thrusters
+    2300012: _hover_thrusters 1
+    2300014: _hover_thrusters 2
+    2300016: _hover_thrusters 3
+    2300018: _primary_trigger
+    2300020: _primary_trigger 1
+    2300022: _secondary_trigger
+    2300024: _winglight_back
+    2300026: _winglight_back 1
+    2300028: _winglight_front
+    2300030: _winglight_front 1
+    2300032: _wingtip
+    2300034: _wingtip 1
+    2300036: frame_cab
+    2300038: frame_hull
+    2300040: frame_left_rudder
+    2300042: frame_right_rudder
+    3300000: _cockpit_light
+    3300002: _driver
+    3300004: _driver_enter
+    3300006: _driver_enter-hint
+    3300008: _engine
+    3300010: _hover_thrusters
+    3300012: _hover_thrusters 1
+    3300014: _hover_thrusters 2
+    3300016: _hover_thrusters 3
+    3300018: _primary_trigger
+    3300020: _primary_trigger 1
+    3300022: _secondary_trigger
+    3300024: _winglight_back
+    3300026: _winglight_back 1
+    3300028: _winglight_front
+    3300030: _winglight_front 1
+    3300032: _wingtip
+    3300034: _wingtip 1
+    3300036: frame_cab
+    3300038: frame_hull
+    3300040: frame_left_rudder
+    3300042: frame_right_rudder
+    4300000: frame_hull
+    4300002: frame_cab
+    4300004: _cockpit_light
+    4300006: frame_right_rudder
+    4300008: frame_left_rudder
+    4300010: _primary_trigger
+    4300012: _primary_trigger
+    4300014: _driver
+    4300016: _wingtip
+    4300018: _driver_enter
+    4300020: _wingtip
+    4300022: _engine
+    4300024: _hover_thrusters
+    4300026: _hover_thrusters
+    4300028: _secondary_trigger
+    4300030: _driver_enter-hint
+    4300032: _hover_thrusters
+    4300034: _hover_thrusters
+    4300036: _winglight_back
+    4300038: _winglight_back
+    4300040: _winglight_front
+    4300042: _winglight_front
+    4300044: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

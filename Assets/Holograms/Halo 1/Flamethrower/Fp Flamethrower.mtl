@@ -1,0 +1,63 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__98 (7) to come 
+#
+newmtl ft_gun
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl ft_ammo
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Ft_Screen
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Temperature
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Left_Number
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Middle_Number
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Right_Number
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__98 done 
+#
+# EOF

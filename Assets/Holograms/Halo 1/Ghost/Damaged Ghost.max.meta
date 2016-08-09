@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 4dbca8cff6d95a34c9f8caa5bc60a3d2
+timeCreated: 1470685948
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#cockpit light'
+    100002: '#driver'
+    100004: '#engine'
+    100006: '#fire'
+    100008: '#fire 1'
+    100010: '#left foot'
+    100012: '#left hand elite'
+    100014: '#primary trigger'
+    100016: '#primary trigger 1'
+    100018: '#right foot'
+    100020: '#right hand elite'
+    100022: '#running lights'
+    100024: '#running lights 1'
+    100026: '#running lights 2'
+    100028: '#submerged'
+    100030: __unnamed
+    100032: //RootNode
+    100034: frame guns
+    100036: frame hull
+    100038: frame left flap
+    100040: frame right flap
+    100042: frame seat
+    400000: '#cockpit light'
+    400002: '#driver'
+    400004: '#engine'
+    400006: '#fire'
+    400008: '#fire 1'
+    400010: '#left foot'
+    400012: '#left hand elite'
+    400014: '#primary trigger'
+    400016: '#primary trigger 1'
+    400018: '#right foot'
+    400020: '#right hand elite'
+    400022: '#running lights'
+    400024: '#running lights 1'
+    400026: '#running lights 2'
+    400028: '#submerged'
+    400030: __unnamed
+    400032: //RootNode
+    400034: frame guns
+    400036: frame hull
+    400038: frame left flap
+    400040: frame right flap
+    400042: frame seat
+    2300000: '#cockpit light'
+    2300002: '#driver'
+    2300004: '#engine'
+    2300006: '#fire'
+    2300008: '#fire 1'
+    2300010: '#left foot'
+    2300012: '#left hand elite'
+    2300014: '#primary trigger'
+    2300016: '#primary trigger 1'
+    2300018: '#right foot'
+    2300020: '#right hand elite'
+    2300022: '#running lights'
+    2300024: '#running lights 1'
+    2300026: '#running lights 2'
+    2300028: '#submerged'
+    3300000: '#cockpit light'
+    3300002: '#driver'
+    3300004: '#engine'
+    3300006: '#fire'
+    3300008: '#fire 1'
+    3300010: '#left foot'
+    3300012: '#left hand elite'
+    3300014: '#primary trigger'
+    3300016: '#primary trigger 1'
+    3300018: '#right foot'
+    3300020: '#right hand elite'
+    3300022: '#running lights'
+    3300024: '#running lights 1'
+    3300026: '#running lights 2'
+    3300028: '#submerged'
+    4300000: '#primary trigger'
+    4300002: '#primary trigger'
+    4300004: '#right hand elite'
+    4300006: '#left hand elite'
+    4300008: '#driver'
+    4300010: '#cockpit light'
+    4300012: '#running lights'
+    4300014: '#running lights'
+    4300016: '#running lights'
+    4300018: '#engine'
+    4300020: '#submerged'
+    4300022: '#right foot'
+    4300024: '#left foot'
+    4300026: '#fire'
+    4300028: '#fire'
+    4300030: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

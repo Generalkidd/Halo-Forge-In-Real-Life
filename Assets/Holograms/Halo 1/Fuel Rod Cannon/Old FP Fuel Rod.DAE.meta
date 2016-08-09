@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 236d13422e6611343bea0ba79f1da0fb
+timeCreated: 1470685872
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _flashlight
+    100004: _primary_trigger
+    100006: _steam_vent01
+    100008: _steam_vent02
+    100010: frame_barrel
+    100012: frame_bone24
+    100014: frame_gun
+    100016: frame_l_followoooo
+    100018: frame_l_forearm
+    100020: frame_l_index_low
+    100022: frame_l_index_mid
+    100024: frame_l_index_tip
+    100026: frame_l_middle_mid
+    100028: frame_l_middle_tip
+    100030: frame_l_middlelow
+    100032: frame_l_pinky_low
+    100034: frame_l_pinky_mid
+    100036: frame_l_pinky_tip
+    100038: frame_l_ring_low
+    100040: frame_l_ring_mid
+    100042: frame_l_ring_tip
+    100044: frame_l_thumb_low
+    100046: frame_l_thumb_mid
+    100048: frame_l_thumb_tip
+    100050: frame_l_upperarm
+    100052: frame_l_wriste
+    100054: frame_r_forearm
+    100056: frame_r_index_low
+    100058: frame_r_index_mid
+    100060: frame_r_index_tip
+    100062: frame_r_middle_low
+    100064: frame_r_middle_mid
+    100066: frame_r_middle_tip
+    100068: frame_r_pinky_low
+    100070: frame_r_pinky_mid
+    100072: frame_r_pinky_tip
+    100074: frame_r_ring_low
+    100076: frame_r_ring_mid
+    100078: frame_r_ring_tip
+    100080: frame_r_thumb_low
+    100082: frame_r_thumb_mid
+    100084: frame_r_thumb_tip
+    100086: frame_r_upperarm
+    100088: frame_r_wriste
+    100090: frame_vents
+    100092: //RootNode
+    400000: __unnamed
+    400002: _flashlight
+    400004: _primary_trigger
+    400006: _steam_vent01
+    400008: _steam_vent02
+    400010: frame_barrel
+    400012: frame_bone24
+    400014: frame_gun
+    400016: frame_l_followoooo
+    400018: frame_l_forearm
+    400020: frame_l_index_low
+    400022: frame_l_index_mid
+    400024: frame_l_index_tip
+    400026: frame_l_middle_mid
+    400028: frame_l_middle_tip
+    400030: frame_l_middlelow
+    400032: frame_l_pinky_low
+    400034: frame_l_pinky_mid
+    400036: frame_l_pinky_tip
+    400038: frame_l_ring_low
+    400040: frame_l_ring_mid
+    400042: frame_l_ring_tip
+    400044: frame_l_thumb_low
+    400046: frame_l_thumb_mid
+    400048: frame_l_thumb_tip
+    400050: frame_l_upperarm
+    400052: frame_l_wriste
+    400054: frame_r_forearm
+    400056: frame_r_index_low
+    400058: frame_r_index_mid
+    400060: frame_r_index_tip
+    400062: frame_r_middle_low
+    400064: frame_r_middle_mid
+    400066: frame_r_middle_tip
+    400068: frame_r_pinky_low
+    400070: frame_r_pinky_mid
+    400072: frame_r_pinky_tip
+    400074: frame_r_ring_low
+    400076: frame_r_ring_mid
+    400078: frame_r_ring_tip
+    400080: frame_r_thumb_low
+    400082: frame_r_thumb_mid
+    400084: frame_r_thumb_tip
+    400086: frame_r_upperarm
+    400088: frame_r_wriste
+    400090: frame_vents
+    400092: //RootNode
+    2300000: _flashlight
+    2300002: _primary_trigger
+    2300004: _steam_vent01
+    2300006: _steam_vent02
+    3300000: _flashlight
+    3300002: _primary_trigger
+    3300004: _steam_vent01
+    3300006: _steam_vent02
+    4300000: __unnamed
+    4300002: _primary_trigger
+    4300004: _steam_vent01
+    4300006: _steam_vent02
+    4300008: _flashlight
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

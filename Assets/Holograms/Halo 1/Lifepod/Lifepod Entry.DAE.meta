@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 0fad8426030e6e94b88cc71de2f8d60a
+timeCreated: 1470685852
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _burn
+    100004: _cyborg_stand
+    100006: _cyborg_stand_camera
+    100008: _driver
+    100010: _driver_enter
+    100012: _jet
+    100014: _jet 1
+    100016: _jet 2
+    100018: _jet 3
+    100020: _jet 4
+    100022: _jet 5
+    100024: _retro
+    100026: _retro 1
+    100028: _retro 2
+    100030: _retro 3
+    100032: frame_brake_lower_left
+    100034: frame_brake_lower_right
+    100036: frame_brake_upper_left
+    100038: frame_brake_upper_right
+    100040: frame_lifepod
+    100042: hull
+    100044: //RootNode
+    100046: wing
+    400000: __unnamed
+    400002: _burn
+    400004: _cyborg_stand
+    400006: _cyborg_stand_camera
+    400008: _driver
+    400010: _driver_enter
+    400012: _jet
+    400014: _jet 1
+    400016: _jet 2
+    400018: _jet 3
+    400020: _jet 4
+    400022: _jet 5
+    400024: _retro
+    400026: _retro 1
+    400028: _retro 2
+    400030: _retro 3
+    400032: frame_brake_lower_left
+    400034: frame_brake_lower_right
+    400036: frame_brake_upper_left
+    400038: frame_brake_upper_right
+    400040: frame_lifepod
+    400042: hull
+    400044: //RootNode
+    400046: wing
+    2300000: _burn
+    2300002: _cyborg_stand
+    2300004: _cyborg_stand_camera
+    2300006: _driver
+    2300008: _driver_enter
+    2300010: _jet
+    2300012: _jet 1
+    2300014: _jet 2
+    2300016: _jet 3
+    2300018: _jet 4
+    2300020: _jet 5
+    2300022: _retro
+    2300024: _retro 1
+    2300026: _retro 2
+    2300028: _retro 3
+    3300000: _burn
+    3300002: _cyborg_stand
+    3300004: _cyborg_stand_camera
+    3300006: _driver
+    3300008: _driver_enter
+    3300010: _jet
+    3300012: _jet 1
+    3300014: _jet 2
+    3300016: _jet 3
+    3300018: _jet 4
+    3300020: _jet 5
+    3300022: _retro
+    3300024: _retro 1
+    3300026: _retro 2
+    3300028: _retro 3
+    4300000: hull
+    4300002: wing
+    4300004: _burn
+    4300006: _cyborg_stand
+    4300008: _driver
+    4300010: _driver_enter
+    4300012: _cyborg_stand_camera
+    4300014: _jet
+    4300016: _jet
+    4300018: _jet
+    4300020: _jet
+    4300022: _retro
+    4300024: _retro
+    4300026: _jet
+    4300028: _jet
+    4300030: _retro
+    4300032: _retro
+    4300034: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+    13700002: hull
+    13700004: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

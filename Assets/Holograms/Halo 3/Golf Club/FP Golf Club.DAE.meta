@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: e0caa2e7e8c99984cac4c554fdd2cdd9
+timeCreated: 1470686076
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: default_default1
+    100002: //RootNode
+    100004: fp_hammer_detonation
+    100006: fx_electric_arcs
+    100008: fx_vent
+    100010: hammer
+    100012: left_hand
+    100014: left_hand_brute
+    100016: left_hand_elite
+    100018: right_hand
+    100020: right_hand_brute
+    100022: shaft
+    400000: default_default1
+    400002: //RootNode
+    400004: fp_hammer_detonation
+    400006: fx_electric_arcs
+    400008: fx_vent
+    400010: hammer
+    400012: left_hand
+    400014: left_hand_brute
+    400016: left_hand_elite
+    400018: right_hand
+    400020: right_hand_brute
+    400022: shaft
+    2300000: default_default1
+    2300002: fp_hammer_detonation
+    2300004: fx_electric_arcs
+    2300006: fx_vent
+    2300008: left_hand
+    2300010: left_hand_brute
+    2300012: left_hand_elite
+    2300014: right_hand
+    2300016: right_hand_brute
+    3300000: default_default1
+    3300002: fp_hammer_detonation
+    3300004: fx_electric_arcs
+    3300006: fx_vent
+    3300008: left_hand
+    3300010: left_hand_brute
+    3300012: left_hand_elite
+    3300014: right_hand
+    3300016: right_hand_brute
+    4300000: fx_electric_arcs
+    4300002: fx_vent
+    4300004: fp_hammer_detonation
+    4300006: left_hand_elite
+    4300008: left_hand
+    4300010: right_hand
+    4300012: left_hand_brute
+    4300014: right_hand_brute
+    4300016: default_default1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

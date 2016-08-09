@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a89328446496b044ea8624a43756e532
+timeCreated: 1470686036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrels
+    100002: //RootNode
+    100004: frame_barrels
+    100006: frame_chain
+    100008: frame_gun
+    100010: frame_gun_mount_base
+    100012: frame_hull
+    100014: frame_left_back_engine
+    100016: frame_left_back_suspension
+    100018: frame_left_back_tire
+    100020: frame_left_front_engine
+    100022: frame_left_front_suspension
+    100024: frame_left_front_tire
+    100026: frame_right_back_engine
+    100028: frame_right_back_suspension
+    100030: frame_right_back_tire
+    100032: frame_right_front_engine
+    100034: frame_right_front_suspension
+    100036: frame_right_front_tire
+    100038: frame_steering_wheel
+    400000: barrels
+    400002: //RootNode
+    400004: frame_barrels
+    400006: frame_chain
+    400008: frame_gun
+    400010: frame_gun_mount_base
+    400012: frame_hull
+    400014: frame_left_back_engine
+    400016: frame_left_back_suspension
+    400018: frame_left_back_tire
+    400020: frame_left_front_engine
+    400022: frame_left_front_suspension
+    400024: frame_left_front_tire
+    400026: frame_right_back_engine
+    400028: frame_right_back_suspension
+    400030: frame_right_back_tire
+    400032: frame_right_front_engine
+    400034: frame_right_front_suspension
+    400036: frame_right_front_tire
+    400038: frame_steering_wheel
+    2300000: barrels
+    2300002: frame_barrels
+    2300004: frame_chain
+    2300006: frame_gun
+    2300008: frame_gun_mount_base
+    2300010: frame_hull
+    2300012: frame_left_back_engine
+    2300014: frame_left_back_suspension
+    2300016: frame_left_back_tire
+    2300018: frame_left_front_engine
+    2300020: frame_left_front_suspension
+    2300022: frame_left_front_tire
+    2300024: frame_right_back_engine
+    2300026: frame_right_back_suspension
+    2300028: frame_right_back_tire
+    2300030: frame_right_front_engine
+    2300032: frame_right_front_suspension
+    2300034: frame_right_front_tire
+    2300036: frame_steering_wheel
+    3300000: barrels
+    3300002: frame_barrels
+    3300004: frame_chain
+    3300006: frame_gun
+    3300008: frame_gun_mount_base
+    3300010: frame_hull
+    3300012: frame_left_back_engine
+    3300014: frame_left_back_suspension
+    3300016: frame_left_back_tire
+    3300018: frame_left_front_engine
+    3300020: frame_left_front_suspension
+    3300022: frame_left_front_tire
+    3300024: frame_right_back_engine
+    3300026: frame_right_back_suspension
+    3300028: frame_right_back_tire
+    3300030: frame_right_front_engine
+    3300032: frame_right_front_suspension
+    3300034: frame_right_front_tire
+    3300036: frame_steering_wheel
+    4300000: barrels
+    4300002: frame_barrels
+    4300004: frame_chain
+    4300006: frame_gun
+    4300008: frame_gun_mount_base
+    4300010: frame_hull
+    4300012: frame_left_back_engine
+    4300014: frame_left_back_suspension
+    4300016: frame_left_back_tire
+    4300018: frame_left_front_engine
+    4300020: frame_left_front_suspension
+    4300022: frame_left_front_tire
+    4300024: frame_right_back_engine
+    4300026: frame_right_back_suspension
+    4300028: frame_right_back_tire
+    4300030: frame_right_front_engine
+    4300032: frame_right_front_suspension
+    4300034: frame_right_front_tire
+    4300036: frame_steering_wheel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

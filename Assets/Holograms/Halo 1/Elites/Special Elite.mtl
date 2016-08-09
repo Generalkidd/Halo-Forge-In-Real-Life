@@ -1,0 +1,47 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Elite_Body
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__114 (4) to come 
+#
+newmtl elite_special_emblem
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl elite_special_inset_lights
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Elite_Body
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Teeth
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__114 done 
+#
+# EOF

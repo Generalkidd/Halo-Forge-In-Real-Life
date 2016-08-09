@@ -1,0 +1,152 @@
+newmtl metal plate floor
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal plate floor.png
+newmtl metal flat generic
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal flat generic.png
+newmtl metal strips narrow
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal strips narrow.png
+newmtl metal panels generic
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal panels generic.png
+newmtl metal strips wide
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal strips wide.png
+newmtl tech dense circuits
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\tech dense circuits.png
+newmtl metal strips wide a
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal strips wide 1.png
+newmtl beavercreek cliffs
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\beavercreek cliffs.png
+newmtl panel generic
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\panel generic.png
+newmtl steel
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\steel.png
+newmtl rat cave floor
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\rat_cave_floor.png
+newmtl metal strips decorative wide
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\metal strips decorative wide.png
+newmtl alpha grate
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\alpha grate.png
+newmtl greenlight
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\c10_inv.png
+newmtl ratlwhite
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\lights small strips.png
+newmtl car_conelight
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\c10_inv.png
+newmtl ratlred
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\lights small strips.png
+newmtl ratlpower
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\lights small strips.png
+newmtl black light ratrace
+Ka 0.20 0.20 0.20
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+illum 2
+d 1.00
+Ns 0.00
+map_Kd textures\black light.png

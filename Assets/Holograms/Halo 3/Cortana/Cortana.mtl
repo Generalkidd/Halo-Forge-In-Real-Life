@@ -1,0 +1,57 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 13.09.2010 21:52:52
+
+newmtl ColorMaterial_E1578F00_fx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8824 0.3412 0.5608
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl ColorMaterial_8C58E100_fx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5490 0.3451 0.8824
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _1___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd cortana_skin.png
+	map_bump cortana_skin_nm.png
+	bump cortana_skin_nm.png
+
+newmtl Material__25
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd cortana_hair.png
+	map_d cortana_hair.png
+	map_bump cortana_hair_bump.png
+	bump cortana_hair_bump.png

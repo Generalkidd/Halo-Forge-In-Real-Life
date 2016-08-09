@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 995f87472f734a341a32b68dee94af9e
+timeCreated: 1470686018
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_default1
+    100002: //RootNode
+    100004: eyelashes_default1
+    100006: fx_center
+    100008: fx_glow
+    100010: hair_default1
+    100012: head
+    100014: head_default1
+    100016: l_clavicle
+    100018: l_foot
+    100020: l_hand
+    100022: l_thigh
+    100024: neck
+    100026: pelvis
+    100028: r_clavicle
+    100030: r_foot
+    100032: r_hand
+    100034: r_thigh
+    100036: spine1
+    400000: body_default1
+    400002: //RootNode
+    400004: eyelashes_default1
+    400006: fx_center
+    400008: fx_glow
+    400010: hair_default1
+    400012: head
+    400014: head_default1
+    400016: l_clavicle
+    400018: l_foot
+    400020: l_hand
+    400022: l_thigh
+    400024: neck
+    400026: pelvis
+    400028: r_clavicle
+    400030: r_foot
+    400032: r_hand
+    400034: r_thigh
+    400036: spine1
+    2300000: body_default1
+    2300002: eyelashes_default1
+    2300004: fx_center
+    2300006: fx_glow
+    2300008: hair_default1
+    2300010: head
+    2300012: head_default1
+    2300014: l_clavicle
+    2300016: l_foot
+    2300018: l_hand
+    2300020: l_thigh
+    2300022: neck
+    2300024: pelvis
+    2300026: r_clavicle
+    2300028: r_foot
+    2300030: r_hand
+    2300032: r_thigh
+    2300034: spine1
+    3300000: body_default1
+    3300002: eyelashes_default1
+    3300004: fx_center
+    3300006: fx_glow
+    3300008: hair_default1
+    3300010: head
+    3300012: head_default1
+    3300014: l_clavicle
+    3300016: l_foot
+    3300018: l_hand
+    3300020: l_thigh
+    3300022: neck
+    3300024: pelvis
+    3300026: r_clavicle
+    3300028: r_foot
+    3300030: r_hand
+    3300032: r_thigh
+    3300034: spine1
+    4300000: body_default1
+    4300002: eyelashes_default1
+    4300004: fx_center
+    4300006: fx_glow
+    4300008: hair_default1
+    4300010: head
+    4300012: head_default1
+    4300014: l_clavicle
+    4300016: l_foot
+    4300018: l_hand
+    4300020: l_thigh
+    4300022: neck
+    4300024: pelvis
+    4300026: r_clavicle
+    4300028: r_foot
+    4300030: r_hand
+    4300032: r_thigh
+    4300034: spine1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

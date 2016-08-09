@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: a25fe39993cf4604f89f77a23a9f2581
+timeCreated: 1470686030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _debris1
+    100004: _debris1 1
+    100006: _debris2
+    100008: _debris2 1
+    100010: _debris3
+    100012: _debris3 1
+    100014: _explosion_debris
+    100016: _explosion_debris 1
+    100018: _explosion_debris2
+    100020: _explosion_debris2 1
+    100022: _explosion_poa_back
+    100024: _explosion_poa_front
+    100026: _explosion_smallsection
+    100028: _shockhit
+    100030: _shockhit 1
+    100032: _shockhit 10
+    100034: _shockhit 11
+    100036: _shockhit 12
+    100038: _shockhit 13
+    100040: _shockhit 14
+    100042: _shockhit 2
+    100044: _shockhit 3
+    100046: _shockhit 4
+    100048: _shockhit 5
+    100050: _shockhit 6
+    100052: _shockhit 7
+    100054: _shockhit 8
+    100056: _shockhit 9
+    100058: frame_poa_shochwave
+    100060: frame_ring
+    100062: frame_ring01
+    100064: frame_ring02
+    100066: frame_ring03
+    100068: frame_ring04
+    100070: frame_ring05
+    100072: frame_ring06
+    100074: frame_ring07
+    100076: frame_ring08
+    100078: frame_ring09
+    100080: frame_ring10
+    100082: frame_ring11
+    100084: frame_shockwave_left
+    100086: frame_shockwave_right
+    100088: frame_thrownsection_center
+    100090: frame_thrownsection_end02
+    100092: frame_thrownsection_end03
+    100094: //RootNode
+    400000: __unnamed
+    400002: _debris1
+    400004: _debris1 1
+    400006: _debris2
+    400008: _debris2 1
+    400010: _debris3
+    400012: _debris3 1
+    400014: _explosion_debris
+    400016: _explosion_debris 1
+    400018: _explosion_debris2
+    400020: _explosion_debris2 1
+    400022: _explosion_poa_back
+    400024: _explosion_poa_front
+    400026: _explosion_smallsection
+    400028: _shockhit
+    400030: _shockhit 1
+    400032: _shockhit 10
+    400034: _shockhit 11
+    400036: _shockhit 12
+    400038: _shockhit 13
+    400040: _shockhit 14
+    400042: _shockhit 2
+    400044: _shockhit 3
+    400046: _shockhit 4
+    400048: _shockhit 5
+    400050: _shockhit 6
+    400052: _shockhit 7
+    400054: _shockhit 8
+    400056: _shockhit 9
+    400058: frame_poa_shochwave
+    400060: frame_ring
+    400062: frame_ring01
+    400064: frame_ring02
+    400066: frame_ring03
+    400068: frame_ring04
+    400070: frame_ring05
+    400072: frame_ring06
+    400074: frame_ring07
+    400076: frame_ring08
+    400078: frame_ring09
+    400080: frame_ring10
+    400082: frame_ring11
+    400084: frame_shockwave_left
+    400086: frame_shockwave_right
+    400088: frame_thrownsection_center
+    400090: frame_thrownsection_end02
+    400092: frame_thrownsection_end03
+    400094: //RootNode
+    2300000: _debris1
+    2300002: _debris1 1
+    2300004: _debris2
+    2300006: _debris2 1
+    2300008: _debris3
+    2300010: _debris3 1
+    2300012: _explosion_debris
+    2300014: _explosion_debris 1
+    2300016: _explosion_debris2
+    2300018: _explosion_debris2 1
+    2300020: _explosion_poa_back
+    2300022: _explosion_poa_front
+    2300024: _explosion_smallsection
+    2300026: _shockhit
+    2300028: _shockhit 1
+    2300030: _shockhit 10
+    2300032: _shockhit 11
+    2300034: _shockhit 12
+    2300036: _shockhit 13
+    2300038: _shockhit 14
+    2300040: _shockhit 2
+    2300042: _shockhit 3
+    2300044: _shockhit 4
+    2300046: _shockhit 5
+    2300048: _shockhit 6
+    2300050: _shockhit 7
+    2300052: _shockhit 8
+    2300054: _shockhit 9
+    2300056: frame_poa_shochwave
+    2300058: frame_ring
+    2300060: frame_ring01
+    2300062: frame_ring02
+    2300064: frame_ring03
+    2300066: frame_ring04
+    2300068: frame_ring05
+    2300070: frame_ring06
+    2300072: frame_ring07
+    2300074: frame_ring08
+    2300076: frame_ring09
+    2300078: frame_ring10
+    2300080: frame_ring11
+    2300082: frame_shockwave_left
+    2300084: frame_shockwave_right
+    2300086: frame_thrownsection_center
+    2300088: frame_thrownsection_end02
+    2300090: frame_thrownsection_end03
+    3300000: _debris1
+    3300002: _debris1 1
+    3300004: _debris2
+    3300006: _debris2 1
+    3300008: _debris3
+    3300010: _debris3 1
+    3300012: _explosion_debris
+    3300014: _explosion_debris 1
+    3300016: _explosion_debris2
+    3300018: _explosion_debris2 1
+    3300020: _explosion_poa_back
+    3300022: _explosion_poa_front
+    3300024: _explosion_smallsection
+    3300026: _shockhit
+    3300028: _shockhit 1
+    3300030: _shockhit 10
+    3300032: _shockhit 11
+    3300034: _shockhit 12
+    3300036: _shockhit 13
+    3300038: _shockhit 14
+    3300040: _shockhit 2
+    3300042: _shockhit 3
+    3300044: _shockhit 4
+    3300046: _shockhit 5
+    3300048: _shockhit 6
+    3300050: _shockhit 7
+    3300052: _shockhit 8
+    3300054: _shockhit 9
+    3300056: frame_poa_shochwave
+    3300058: frame_ring
+    3300060: frame_ring01
+    3300062: frame_ring02
+    3300064: frame_ring03
+    3300066: frame_ring04
+    3300068: frame_ring05
+    3300070: frame_ring06
+    3300072: frame_ring07
+    3300074: frame_ring08
+    3300076: frame_ring09
+    3300078: frame_ring10
+    3300080: frame_ring11
+    3300082: frame_shockwave_left
+    3300084: frame_shockwave_right
+    3300086: frame_thrownsection_center
+    3300088: frame_thrownsection_end02
+    3300090: frame_thrownsection_end03
+    4300000: frame_ring
+    4300002: frame_ring02
+    4300004: frame_poa_shochwave
+    4300006: frame_ring01
+    4300008: _debris3
+    4300010: _shockhit
+    4300012: _shockhit
+    4300014: _shockhit
+    4300016: _shockhit
+    4300018: _shockhit
+    4300020: _shockhit
+    4300022: frame_ring03
+    4300024: frame_ring04
+    4300026: frame_ring06
+    4300028: _debris1
+    4300030: _debris2
+    4300032: frame_ring05
+    4300034: frame_ring08
+    4300036: _debris2
+    4300038: _debris1
+    4300040: frame_ring07
+    4300042: frame_thrownsection_center
+    4300044: frame_thrownsection_end03
+    4300046: _explosion_debris
+    4300048: _explosion_debris2
+    4300050: frame_thrownsection_end02
+    4300052: _explosion_debris2
+    4300054: _explosion_debris
+    4300056: frame_shockwave_left
+    4300058: frame_ring11
+    4300060: _shockhit
+    4300062: _shockhit
+    4300064: _shockhit
+    4300066: _shockhit
+    4300068: _shockhit
+    4300070: _shockhit
+    4300072: _shockhit
+    4300074: frame_ring09
+    4300076: frame_ring10
+    4300078: _debris3
+    4300080: _shockhit
+    4300082: _shockhit
+    4300084: frame_shockwave_right
+    4300086: _explosion_poa_front
+    4300088: _explosion_smallsection
+    4300090: _explosion_poa_back
+    4300092: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

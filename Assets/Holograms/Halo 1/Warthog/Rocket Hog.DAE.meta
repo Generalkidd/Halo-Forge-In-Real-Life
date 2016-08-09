@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 14e8bde3c379e3d4c8868c20a107b3ce
+timeCreated: 1470685860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _antenna
+    100002: _camera_driver
+    100004: _camera_gunner
+    100006: _camera_rider
+    100008: _driver
+    100010: _driver_enter
+    100012: _engine
+    100014: _gunner
+    100016: _gunner_enter
+    100018: _gunner_left_foot
+    100020: _gunner_left_hand
+    100022: _gunner_right_foot
+    100024: _gunner_right_hand
+    100026: _headlights
+    100028: _headlights 1
+    100030: _headlights 2
+    100032: _headlights 3
+    100034: _headlights_light
+    100036: _left_hand_wheel_grip
+    100038: _passenger
+    100040: _passenger_enter
+    100042: _primary_ejection
+    100044: _primary_trigger
+    100046: _right_hand_wheel_grip
+    100048: _taillights
+    100050: _taillights 1
+    100052: frame_barrels
+    100054: frame_chain
+    100056: frame_gun
+    100058: frame_gun_mount_base
+    100060: frame_hull
+    100062: frame_left_back_engine
+    100064: frame_left_back_suspension
+    100066: frame_left_back_tire
+    100068: frame_left_front_engine
+    100070: frame_left_front_suspension
+    100072: frame_left_front_tire
+    100074: frame_right_back_engine
+    100076: frame_right_back_suspension
+    100078: frame_right_back_tire
+    100080: frame_right_front_engine
+    100082: frame_right_front_suspension
+    100084: frame_right_front_tire
+    100086: frame_steering_wheel
+    100088: hull
+    100090: //RootNode
+    100092: tire
+    400000: _antenna
+    400002: _camera_driver
+    400004: _camera_gunner
+    400006: _camera_rider
+    400008: _driver
+    400010: _driver_enter
+    400012: _engine
+    400014: _gunner
+    400016: _gunner_enter
+    400018: _gunner_left_foot
+    400020: _gunner_left_hand
+    400022: _gunner_right_foot
+    400024: _gunner_right_hand
+    400026: _headlights
+    400028: _headlights 1
+    400030: _headlights 2
+    400032: _headlights 3
+    400034: _headlights_light
+    400036: _left_hand_wheel_grip
+    400038: _passenger
+    400040: _passenger_enter
+    400042: _primary_ejection
+    400044: _primary_trigger
+    400046: _right_hand_wheel_grip
+    400048: _taillights
+    400050: _taillights 1
+    400052: frame_barrels
+    400054: frame_chain
+    400056: frame_gun
+    400058: frame_gun_mount_base
+    400060: frame_hull
+    400062: frame_left_back_engine
+    400064: frame_left_back_suspension
+    400066: frame_left_back_tire
+    400068: frame_left_front_engine
+    400070: frame_left_front_suspension
+    400072: frame_left_front_tire
+    400074: frame_right_back_engine
+    400076: frame_right_back_suspension
+    400078: frame_right_back_tire
+    400080: frame_right_front_engine
+    400082: frame_right_front_suspension
+    400084: frame_right_front_tire
+    400086: frame_steering_wheel
+    400088: hull
+    400090: //RootNode
+    400092: tire
+    2300000: _antenna
+    2300002: _camera_driver
+    2300004: _camera_gunner
+    2300006: _camera_rider
+    2300008: _driver
+    2300010: _driver_enter
+    2300012: _engine
+    2300014: _gunner
+    2300016: _gunner_enter
+    2300018: _gunner_left_foot
+    2300020: _gunner_left_hand
+    2300022: _gunner_right_foot
+    2300024: _gunner_right_hand
+    2300026: _headlights
+    2300028: _headlights 1
+    2300030: _headlights 2
+    2300032: _headlights 3
+    2300034: _headlights_light
+    2300036: _left_hand_wheel_grip
+    2300038: _passenger
+    2300040: _passenger_enter
+    2300042: _primary_ejection
+    2300044: _primary_trigger
+    2300046: _right_hand_wheel_grip
+    2300048: _taillights
+    2300050: _taillights 1
+    3300000: _antenna
+    3300002: _camera_driver
+    3300004: _camera_gunner
+    3300006: _camera_rider
+    3300008: _driver
+    3300010: _driver_enter
+    3300012: _engine
+    3300014: _gunner
+    3300016: _gunner_enter
+    3300018: _gunner_left_foot
+    3300020: _gunner_left_hand
+    3300022: _gunner_right_foot
+    3300024: _gunner_right_hand
+    3300026: _headlights
+    3300028: _headlights 1
+    3300030: _headlights 2
+    3300032: _headlights 3
+    3300034: _headlights_light
+    3300036: _left_hand_wheel_grip
+    3300038: _passenger
+    3300040: _passenger_enter
+    3300042: _primary_ejection
+    3300044: _primary_trigger
+    3300046: _right_hand_wheel_grip
+    3300048: _taillights
+    3300050: _taillights 1
+    4300000: _primary_ejection
+    4300002: _gunner_right_hand
+    4300004: _gunner_left_hand
+    4300006: _primary_trigger
+    4300008: _gunner
+    4300010: _gunner_right_foot
+    4300012: _gunner_left_foot
+    4300014: _camera_gunner
+    4300016: _left_hand_wheel_grip
+    4300018: _right_hand_wheel_grip
+    4300020: _taillights
+    4300022: _taillights
+    4300024: _camera_rider
+    4300026: _camera_driver
+    4300028: _antenna
+    4300030: _passenger
+    4300032: _driver
+    4300034: _headlights
+    4300036: _headlights
+    4300038: _headlights_light
+    4300040: _headlights
+    4300042: _engine
+    4300044: _gunner_enter
+    4300046: _driver_enter
+    4300048: _passenger_enter
+    4300050: _headlights
+    4300052: tire
+    4300054: hull
+    9500000: //RootNode
+    13700000: hull
+    13700002: tire
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

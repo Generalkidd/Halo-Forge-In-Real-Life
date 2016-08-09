@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: c652d8a88f79f8b4abe082bd11475014
+timeCreated: 1470686056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _cargo_ghost01
+    100004: _cargo_ghost02
+    100006: _cargo_ghost03
+    100008: _cargo_wraith
+    100010: _cd_passengerl01
+    100012: _cd_passengerl02
+    100014: _cd_passengerl03
+    100016: _cd_passengerl04
+    100018: _cd_passengerr01
+    100020: _cd_passengerr02
+    100022: _cd_passengerr03
+    100024: _cd_passengerr04
+    100026: _gunseat
+    100028: _hover_thrusters
+    100030: //RootNode
+    100032: frame_bay_door_left
+    100034: frame_bay_door_right
+    100036: frame_root
+    400000: __unnamed
+    400002: _cargo_ghost01
+    400004: _cargo_ghost02
+    400006: _cargo_ghost03
+    400008: _cargo_wraith
+    400010: _cd_passengerl01
+    400012: _cd_passengerl02
+    400014: _cd_passengerl03
+    400016: _cd_passengerl04
+    400018: _cd_passengerr01
+    400020: _cd_passengerr02
+    400022: _cd_passengerr03
+    400024: _cd_passengerr04
+    400026: _gunseat
+    400028: _hover_thrusters
+    400030: //RootNode
+    400032: frame_bay_door_left
+    400034: frame_bay_door_right
+    400036: frame_root
+    2300000: __unnamed
+    2300002: _cargo_ghost01
+    2300004: _cargo_ghost02
+    2300006: _cargo_ghost03
+    2300008: _cargo_wraith
+    2300010: _cd_passengerl01
+    2300012: _cd_passengerl02
+    2300014: _cd_passengerl03
+    2300016: _cd_passengerl04
+    2300018: _cd_passengerr01
+    2300020: _cd_passengerr02
+    2300022: _cd_passengerr03
+    2300024: _cd_passengerr04
+    2300026: _gunseat
+    2300028: _hover_thrusters
+    2300030: frame_bay_door_left
+    2300032: frame_bay_door_right
+    2300034: frame_root
+    3300000: __unnamed
+    3300002: _cargo_ghost01
+    3300004: _cargo_ghost02
+    3300006: _cargo_ghost03
+    3300008: _cargo_wraith
+    3300010: _cd_passengerl01
+    3300012: _cd_passengerl02
+    3300014: _cd_passengerl03
+    3300016: _cd_passengerl04
+    3300018: _cd_passengerr01
+    3300020: _cd_passengerr02
+    3300022: _cd_passengerr03
+    3300024: _cd_passengerr04
+    3300026: _gunseat
+    3300028: _hover_thrusters
+    3300030: frame_bay_door_left
+    3300032: frame_bay_door_right
+    3300034: frame_root
+    4300000: __unnamed
+    4300002: _cargo_ghost01
+    4300004: _cargo_ghost02
+    4300006: _cargo_ghost03
+    4300008: _cargo_wraith
+    4300010: _cd_passengerl01
+    4300012: _cd_passengerl02
+    4300014: _cd_passengerl03
+    4300016: _cd_passengerl04
+    4300018: _cd_passengerr01
+    4300020: _cd_passengerr02
+    4300022: _cd_passengerr03
+    4300024: _cd_passengerr04
+    4300026: _gunseat
+    4300028: _hover_thrusters
+    4300030: frame_bay_door_left
+    4300032: frame_bay_door_right
+    4300034: frame_root
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

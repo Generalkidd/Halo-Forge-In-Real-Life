@@ -1,0 +1,72 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 12.09.2010 02:08:05
+
+newmtl ColorMaterial_1C1CB100_fx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1098 0.1098 0.6941
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _2___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd golf_club_head_color.png
+	map_bump golf_club_head_bump.png
+	bump golf_club_head_bump.png
+
+newmtl _3___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd golf_club_grip_color.png
+	map_bump golf_club_grip_bump.png
+	bump golf_club_grip_bump.png
+
+newmtl _4___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7843 0.7843 0.7843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump golf_club_shaft_bump.png
+	bump golf_club_shaft_bump.png
+
+newmtl _1___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd gpga_logo.png
+	map_d gpga_logo.png

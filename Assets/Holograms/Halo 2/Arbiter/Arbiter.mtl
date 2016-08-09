@@ -1,0 +1,113 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 14.04.2010 18:30:10
+
+newmtl dervish_cloth
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+
+newmtl dervish_armor
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+
+newmtl dervish_nude_brand
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_nude_brand.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_nude_brand.PNG
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_brand_bump.PNG
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_brand_bump.PNG
+
+newmtl dervish_flesh
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish.PNG
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_bump.PNG
+
+newmtl dervish_helmet
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_helmet.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_helmet.PNG
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_helmet_bump.PNG
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_helmet_bump.PNG
+
+newmtl dervish_teeth
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_teeth.PNG
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\dervish_teeth.PNG
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\teethBump.png
+	map_bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\teethBump.png
+	bump F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo 2\Arbiter\teethBump.png
+
+newmtl dervish_eyes
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Shadow's documents\Documents\3dsmax\scenes\Halo_3_models_(MAX&3Ds)\halo 2  models\halo 2  models\dervish\Textures\dervish_eyes.dds
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Shadow's documents\Documents\3dsmax\scenes\Halo_3_models_(MAX&3Ds)\halo 2  models\halo 2  models\dervish\Textures\dervish_eyes.dds

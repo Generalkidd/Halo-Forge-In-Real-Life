@@ -1,0 +1,39 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__60 (4) to come 
+#
+newmtl captain_eyes
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl captain_head
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Patches
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Body
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__60 done 
+#
+# EOF

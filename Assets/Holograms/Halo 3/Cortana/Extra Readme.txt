@@ -1,0 +1,1 @@
+All of the original bones are there, but the rigging is screwed up after importing unfortunately. The material is also very complicated and will have to be redone for the most part for the model to look its best.

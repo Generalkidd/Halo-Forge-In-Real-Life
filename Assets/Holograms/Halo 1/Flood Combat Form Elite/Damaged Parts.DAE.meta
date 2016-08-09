@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b96e43963c13f5a4cb22887c91cb6841
+timeCreated: 1470686046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bip01_head
+    100002: bip01_l_calf
+    100004: bip01_l_clavicle
+    100006: bip01_l_foot
+    100008: bip01_l_forearm
+    100010: bip01_l_hand
+    100012: bip01_l_horselink
+    100014: bip01_l_thigh
+    100016: bip01_l_upperarm
+    100018: bip01_neck
+    100020: bip01_neck1
+    100022: bip01_pelvis
+    100024: bip01_r_calf
+    100026: bip01_r_clavicle
+    100028: bip01_r_foot
+    100030: bip01_r_forearm
+    100032: bip01_r_hand
+    100034: bip01_r_horselink
+    100036: bip01_r_thigh
+    100038: bip01_r_upperarm
+    100040: bip01_spine
+    100042: bip01_spine1
+    100044: //RootNode
+    100046: EnvironmentAmbientLight
+    100048: frame_antenna-large-base
+    100050: frame_antenna-large-frond
+    100052: frame_antenna-large-middle
+    100054: frame_antenna-large-top
+    100056: frame_antenna-medium-base
+    100058: frame_antenna-medium-frond
+    100060: frame_antenna-medium-top
+    100062: frame_antenna-small-base
+    100064: frame_antenna-small-frond
+    100066: frame_spike-long-base
+    100068: frame_spike-long-end
+    100070: frame_spike-long-mid
+    100072: frame_spike-med-base
+    100074: frame_spike-med-end
+    100076: frame_spike-med-mid
+    100078: frame_spike-short-base
+    100080: frame_spike-short-end
+    100082: frame_spike-short-mid
+    100084: head
+    100086: left_arm
+    100088: right_arm
+    400000: bip01_head
+    400002: bip01_l_calf
+    400004: bip01_l_clavicle
+    400006: bip01_l_foot
+    400008: bip01_l_forearm
+    400010: bip01_l_hand
+    400012: bip01_l_horselink
+    400014: bip01_l_thigh
+    400016: bip01_l_upperarm
+    400018: bip01_neck
+    400020: bip01_neck1
+    400022: bip01_pelvis
+    400024: bip01_r_calf
+    400026: bip01_r_clavicle
+    400028: bip01_r_foot
+    400030: bip01_r_forearm
+    400032: bip01_r_hand
+    400034: bip01_r_horselink
+    400036: bip01_r_thigh
+    400038: bip01_r_upperarm
+    400040: bip01_spine
+    400042: bip01_spine1
+    400044: //RootNode
+    400046: EnvironmentAmbientLight
+    400048: frame_antenna-large-base
+    400050: frame_antenna-large-frond
+    400052: frame_antenna-large-middle
+    400054: frame_antenna-large-top
+    400056: frame_antenna-medium-base
+    400058: frame_antenna-medium-frond
+    400060: frame_antenna-medium-top
+    400062: frame_antenna-small-base
+    400064: frame_antenna-small-frond
+    400066: frame_spike-long-base
+    400068: frame_spike-long-end
+    400070: frame_spike-long-mid
+    400072: frame_spike-med-base
+    400074: frame_spike-med-end
+    400076: frame_spike-med-mid
+    400078: frame_spike-short-base
+    400080: frame_spike-short-end
+    400082: frame_spike-short-mid
+    400084: head
+    400086: left_arm
+    400088: right_arm
+    4300000: head
+    4300002: left_arm
+    4300004: right_arm
+    9500000: //RootNode
+    13700000: head
+    13700002: left_arm
+    13700004: right_arm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

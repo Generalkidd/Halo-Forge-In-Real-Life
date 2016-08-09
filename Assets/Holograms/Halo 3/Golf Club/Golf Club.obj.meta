@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: c3ed02db2b5ceec469dc5608fc5ec0ec
+timeCreated: 1470686051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: default_default1
+    100002: fx_
+    100004: fx_vent
+    100006: //RootNode
+    100008: hammer
+    100010: hammer_detonation
+    100012: left_hand
+    100014: left_hand_brute
+    100016: left_hand_elite
+    100018: right_hand
+    100020: right_hand_brute
+    100022: right_hand_elite
+    100024: weapon_stow_anchor
+    400000: default_default1
+    400002: fx_
+    400004: fx_vent
+    400006: //RootNode
+    400008: hammer
+    400010: hammer_detonation
+    400012: left_hand
+    400014: left_hand_brute
+    400016: left_hand_elite
+    400018: right_hand
+    400020: right_hand_brute
+    400022: right_hand_elite
+    400024: weapon_stow_anchor
+    2300000: default_default1
+    2300002: fx_
+    2300004: fx_vent
+    2300006: hammer
+    2300008: hammer_detonation
+    2300010: left_hand
+    2300012: left_hand_brute
+    2300014: left_hand_elite
+    2300016: right_hand
+    2300018: right_hand_brute
+    2300020: right_hand_elite
+    2300022: weapon_stow_anchor
+    3300000: default_default1
+    3300002: fx_
+    3300004: fx_vent
+    3300006: hammer
+    3300008: hammer_detonation
+    3300010: left_hand
+    3300012: left_hand_brute
+    3300014: left_hand_elite
+    3300016: right_hand
+    3300018: right_hand_brute
+    3300020: right_hand_elite
+    3300022: weapon_stow_anchor
+    4300000: default_default1
+    4300002: fx_
+    4300004: fx_vent
+    4300006: hammer
+    4300008: hammer_detonation
+    4300010: left_hand
+    4300012: left_hand_brute
+    4300014: left_hand_elite
+    4300016: right_hand
+    4300018: right_hand_brute
+    4300020: right_hand_elite
+    4300022: weapon_stow_anchor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+Flood_Detail should be tiled 16x16 as the detail map.

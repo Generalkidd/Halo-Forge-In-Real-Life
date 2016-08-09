@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 65553e1d7dd45b743bfbb95ed92b280b
+timeCreated: 1470685981
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fx_electric_arcs
+    100004: fx_vent
+    100006: hammer
+    100008: left_hand
+    100010: left_hand_brute
+    100012: left_hand_elite
+    100014: right_hand
+    100016: right_hand_brute
+    100018: standard_standard1
+    400000: //RootNode
+    400002: fx_electric_arcs
+    400004: fx_vent
+    400006: hammer
+    400008: left_hand
+    400010: left_hand_brute
+    400012: left_hand_elite
+    400014: right_hand
+    400016: right_hand_brute
+    400018: standard_standard1
+    2300000: fx_electric_arcs
+    2300002: fx_vent
+    2300004: hammer
+    2300006: left_hand
+    2300008: left_hand_brute
+    2300010: left_hand_elite
+    2300012: right_hand
+    2300014: right_hand_brute
+    2300016: standard_standard1
+    3300000: fx_electric_arcs
+    3300002: fx_vent
+    3300004: hammer
+    3300006: left_hand
+    3300008: left_hand_brute
+    3300010: left_hand_elite
+    3300012: right_hand
+    3300014: right_hand_brute
+    3300016: standard_standard1
+    4300000: fx_electric_arcs
+    4300002: fx_vent
+    4300004: hammer
+    4300006: left_hand
+    4300008: left_hand_brute
+    4300010: left_hand_elite
+    4300012: right_hand
+    4300014: right_hand_brute
+    4300016: standard_standard1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

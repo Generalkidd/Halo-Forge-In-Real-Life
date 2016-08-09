@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 182a753cc87ad2046a92ca085c05accd
+timeCreated: 1470685862
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _exhaust_flare
+    100004: _positionchief
+    100006: frame_hull
+    100008: frame_left_flap
+    100010: frame_ramp
+    100012: frame_ramp_arm
+    100014: frame_ramp_piston
+    100016: frame_right_flap
+    100018: //RootNode
+    400000: __unnamed
+    400002: _exhaust_flare
+    400004: _positionchief
+    400006: frame_hull
+    400008: frame_left_flap
+    400010: frame_ramp
+    400012: frame_ramp_arm
+    400014: frame_ramp_piston
+    400016: frame_right_flap
+    400018: //RootNode
+    2300000: __unnamed
+    2300002: _exhaust_flare
+    2300004: _positionchief
+    2300006: frame_hull
+    2300008: frame_left_flap
+    2300010: frame_ramp
+    2300012: frame_ramp_arm
+    2300014: frame_ramp_piston
+    2300016: frame_right_flap
+    3300000: __unnamed
+    3300002: _exhaust_flare
+    3300004: _positionchief
+    3300006: frame_hull
+    3300008: frame_left_flap
+    3300010: frame_ramp
+    3300012: frame_ramp_arm
+    3300014: frame_ramp_piston
+    3300016: frame_right_flap
+    4300000: __unnamed
+    4300002: _exhaust_flare
+    4300004: _positionchief
+    4300006: frame_hull
+    4300008: frame_left_flap
+    4300010: frame_ramp
+    4300012: frame_ramp_arm
+    4300014: frame_ramp_piston
+    4300016: frame_right_flap
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

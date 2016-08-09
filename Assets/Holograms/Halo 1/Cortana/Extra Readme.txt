@@ -1,0 +1,1 @@
+Cortana's textures are combined ingame to create certain effects like the particle streams and scanlines running across her body. For simplicity's sake I put versions of her body textures without an alpha channel on her model by default. 

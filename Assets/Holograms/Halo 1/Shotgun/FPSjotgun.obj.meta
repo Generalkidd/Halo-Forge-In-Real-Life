@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 2134caedbaed6324784f28caeed35b64
+timeCreated: 1470685870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _flashlight
+    100004: _left_hand_cyborg
+    100006: _left_hand_marine
+    100008: _primary_ejection
+    100010: _primary_trigger
+    100012: //RootNode
+    100014: frame_bullet
+    100016: frame_gun
+    100018: frame_magazine
+    100020: frame_pump
+    400000: __unnamed
+    400002: _flashlight
+    400004: _left_hand_cyborg
+    400006: _left_hand_marine
+    400008: _primary_ejection
+    400010: _primary_trigger
+    400012: //RootNode
+    400014: frame_bullet
+    400016: frame_gun
+    400018: frame_magazine
+    400020: frame_pump
+    2300000: __unnamed
+    2300002: _flashlight
+    2300004: _left_hand_cyborg
+    2300006: _left_hand_marine
+    2300008: _primary_ejection
+    2300010: _primary_trigger
+    2300012: frame_bullet
+    2300014: frame_gun
+    2300016: frame_magazine
+    2300018: frame_pump
+    3300000: __unnamed
+    3300002: _flashlight
+    3300004: _left_hand_cyborg
+    3300006: _left_hand_marine
+    3300008: _primary_ejection
+    3300010: _primary_trigger
+    3300012: frame_bullet
+    3300014: frame_gun
+    3300016: frame_magazine
+    3300018: frame_pump
+    4300000: __unnamed
+    4300002: _flashlight
+    4300004: _left_hand_cyborg
+    4300006: _left_hand_marine
+    4300008: _primary_ejection
+    4300010: _primary_trigger
+    4300012: frame_bullet
+    4300014: frame_gun
+    4300016: frame_magazine
+    4300018: frame_pump
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

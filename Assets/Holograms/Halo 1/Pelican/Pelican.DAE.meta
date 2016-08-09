@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: c770c239a8b7fdb48a2eda23dc981c74
+timeCreated: 1470686058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _camera_p-riderlb
+    100004: _camera_p-riderlb01
+    100006: _camera_p-riderlb02
+    100008: _camera_p-riderlf
+    100010: _camera_p-riderlm
+    100012: _camera_p-riderrb
+    100014: _camera_p-riderrb01
+    100016: _camera_p-riderrb02
+    100018: _camera_p-riderrf
+    100020: _camera_p-riderrm
+    100022: _cargo
+    100024: _driver
+    100026: _driver_enter
+    100028: _flaming_debris
+    100030: _flaming_debris 1
+    100032: _flaming_debris 2
+    100034: _flaming_debris 3
+    100036: _hover_thrusters
+    100038: _hover_thrusters 1
+    100040: _hover_thrusters 2
+    100042: _hover_thrusters 3
+    100044: _hover_thrusters 4
+    100046: _hover_thrusters 5
+    100048: _jet_thrusters
+    100050: _jet_thrusters 1
+    100052: _jet_thrusters 2
+    100054: _jet_thrusters 3
+    100056: _jet_thrusters 4
+    100058: _jet_thrusters 5
+    100060: _jet_thrusters 6
+    100062: _jet_thrusters 7
+    100064: _light_red_alert
+    100066: _passenger_enter
+    100068: _passenger_left_back
+    100070: _passenger_left_back01
+    100072: _passenger_left_back02
+    100074: _passenger_left_front
+    100076: _passenger_left_middle
+    100078: _passenger_right_back
+    100080: _passenger_right_back01
+    100082: _passenger_right_back02
+    100084: _passenger_right_front
+    100086: _passenger_right_middle
+    100088: _primary_ejection
+    100090: _primary_trigger
+    100092: frame_chin_gun
+    100094: frame_chin_gun_hatch
+    100096: frame_chin_gun_mount
+    100098: frame_hull
+    100100: frame_left_flap_inner
+    100102: frame_left_flap_outer
+    100104: frame_left_main_engine
+    100106: frame_left_rear_engine
+    100108: frame_right_flap_inner
+    100110: frame_right_flap_outer
+    100112: frame_right_main_engine
+    100114: frame_right_rear_engine
+    100116: //RootNode
+    400000: __unnamed
+    400002: _camera_p-riderlb
+    400004: _camera_p-riderlb01
+    400006: _camera_p-riderlb02
+    400008: _camera_p-riderlf
+    400010: _camera_p-riderlm
+    400012: _camera_p-riderrb
+    400014: _camera_p-riderrb01
+    400016: _camera_p-riderrb02
+    400018: _camera_p-riderrf
+    400020: _camera_p-riderrm
+    400022: _cargo
+    400024: _driver
+    400026: _driver_enter
+    400028: _flaming_debris
+    400030: _flaming_debris 1
+    400032: _flaming_debris 2
+    400034: _flaming_debris 3
+    400036: _hover_thrusters
+    400038: _hover_thrusters 1
+    400040: _hover_thrusters 2
+    400042: _hover_thrusters 3
+    400044: _hover_thrusters 4
+    400046: _hover_thrusters 5
+    400048: _jet_thrusters
+    400050: _jet_thrusters 1
+    400052: _jet_thrusters 2
+    400054: _jet_thrusters 3
+    400056: _jet_thrusters 4
+    400058: _jet_thrusters 5
+    400060: _jet_thrusters 6
+    400062: _jet_thrusters 7
+    400064: _light_red_alert
+    400066: _passenger_enter
+    400068: _passenger_left_back
+    400070: _passenger_left_back01
+    400072: _passenger_left_back02
+    400074: _passenger_left_front
+    400076: _passenger_left_middle
+    400078: _passenger_right_back
+    400080: _passenger_right_back01
+    400082: _passenger_right_back02
+    400084: _passenger_right_front
+    400086: _passenger_right_middle
+    400088: _primary_ejection
+    400090: _primary_trigger
+    400092: frame_chin_gun
+    400094: frame_chin_gun_hatch
+    400096: frame_chin_gun_mount
+    400098: frame_hull
+    400100: frame_left_flap_inner
+    400102: frame_left_flap_outer
+    400104: frame_left_main_engine
+    400106: frame_left_rear_engine
+    400108: frame_right_flap_inner
+    400110: frame_right_flap_outer
+    400112: frame_right_main_engine
+    400114: frame_right_rear_engine
+    400116: //RootNode
+    2300000: _camera_p-riderlb
+    2300002: _camera_p-riderlb01
+    2300004: _camera_p-riderlb02
+    2300006: _camera_p-riderlf
+    2300008: _camera_p-riderlm
+    2300010: _camera_p-riderrb
+    2300012: _camera_p-riderrb01
+    2300014: _camera_p-riderrb02
+    2300016: _camera_p-riderrf
+    2300018: _camera_p-riderrm
+    2300020: _cargo
+    2300022: _driver
+    2300024: _driver_enter
+    2300026: _flaming_debris
+    2300028: _flaming_debris 1
+    2300030: _flaming_debris 2
+    2300032: _flaming_debris 3
+    2300034: _hover_thrusters
+    2300036: _hover_thrusters 1
+    2300038: _hover_thrusters 2
+    2300040: _hover_thrusters 3
+    2300042: _hover_thrusters 4
+    2300044: _hover_thrusters 5
+    2300046: _jet_thrusters
+    2300048: _jet_thrusters 1
+    2300050: _jet_thrusters 2
+    2300052: _jet_thrusters 3
+    2300054: _jet_thrusters 4
+    2300056: _jet_thrusters 5
+    2300058: _jet_thrusters 6
+    2300060: _jet_thrusters 7
+    2300062: _light_red_alert
+    2300064: _passenger_enter
+    2300066: _passenger_left_back
+    2300068: _passenger_left_back01
+    2300070: _passenger_left_back02
+    2300072: _passenger_left_front
+    2300074: _passenger_left_middle
+    2300076: _passenger_right_back
+    2300078: _passenger_right_back01
+    2300080: _passenger_right_back02
+    2300082: _passenger_right_front
+    2300084: _passenger_right_middle
+    2300086: _primary_ejection
+    2300088: _primary_trigger
+    3300000: _camera_p-riderlb
+    3300002: _camera_p-riderlb01
+    3300004: _camera_p-riderlb02
+    3300006: _camera_p-riderlf
+    3300008: _camera_p-riderlm
+    3300010: _camera_p-riderrb
+    3300012: _camera_p-riderrb01
+    3300014: _camera_p-riderrb02
+    3300016: _camera_p-riderrf
+    3300018: _camera_p-riderrm
+    3300020: _cargo
+    3300022: _driver
+    3300024: _driver_enter
+    3300026: _flaming_debris
+    3300028: _flaming_debris 1
+    3300030: _flaming_debris 2
+    3300032: _flaming_debris 3
+    3300034: _hover_thrusters
+    3300036: _hover_thrusters 1
+    3300038: _hover_thrusters 2
+    3300040: _hover_thrusters 3
+    3300042: _hover_thrusters 4
+    3300044: _hover_thrusters 5
+    3300046: _jet_thrusters
+    3300048: _jet_thrusters 1
+    3300050: _jet_thrusters 2
+    3300052: _jet_thrusters 3
+    3300054: _jet_thrusters 4
+    3300056: _jet_thrusters 5
+    3300058: _jet_thrusters 6
+    3300060: _jet_thrusters 7
+    3300062: _light_red_alert
+    3300064: _passenger_enter
+    3300066: _passenger_left_back
+    3300068: _passenger_left_back01
+    3300070: _passenger_left_back02
+    3300072: _passenger_left_front
+    3300074: _passenger_left_middle
+    3300076: _passenger_right_back
+    3300078: _passenger_right_back01
+    3300080: _passenger_right_back02
+    3300082: _passenger_right_front
+    3300084: _passenger_right_middle
+    3300086: _primary_ejection
+    3300088: _primary_trigger
+    4300000: __unnamed
+    4300002: _primary_ejection
+    4300004: _primary_trigger
+    4300006: _hover_thrusters
+    4300008: _jet_thrusters
+    4300010: _hover_thrusters
+    4300012: _jet_thrusters
+    4300014: _jet_thrusters
+    4300016: _hover_thrusters
+    4300018: _jet_thrusters
+    4300020: _hover_thrusters
+    4300022: _hover_thrusters
+    4300024: _jet_thrusters
+    4300026: _jet_thrusters
+    4300028: _hover_thrusters
+    4300030: _jet_thrusters
+    4300032: _jet_thrusters
+    4300034: _driver
+    4300036: _passenger_left_back01
+    4300038: _passenger_enter
+    4300040: _passenger_right_middle
+    4300042: _driver_enter
+    4300044: _camera_p-riderlb
+    4300046: _passenger_left_back
+    4300048: _passenger_right_back
+    4300050: _passenger_left_front
+    4300052: _passenger_left_middle
+    4300054: _camera_p-riderlf
+    4300056: _passenger_right_back02
+    4300058: _camera_p-riderlm
+    4300060: _passenger_right_back01
+    4300062: _passenger_right_front
+    4300064: _camera_p-riderrf
+    4300066: _passenger_left_back02
+    4300068: _camera_p-riderrb01
+    4300070: _camera_p-riderlb01
+    4300072: _camera_p-riderlb02
+    4300074: _camera_p-riderrm
+    4300076: _camera_p-riderrb
+    4300078: _flaming_debris
+    4300080: _light_red_alert
+    4300082: _flaming_debris
+    4300084: _cargo
+    4300086: _camera_p-riderrb02
+    4300088: _flaming_debris
+    4300090: _flaming_debris
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

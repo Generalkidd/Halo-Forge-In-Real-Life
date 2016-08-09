@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 86c73eaab9ebb8048a5bc100d2a9f045
+timeCreated: 1470686005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _body
+    100002: _head
+    100004: _scabs
+    100006: body
+    100008: //RootNode
+    100010: frame_center
+    100012: frame_head
+    100014: frame_head_end
+    100016: frame_headsak
+    100018: frame_headsak_end
+    100020: frame_leftsak
+    100022: frame_leftsak_end
+    100024: frame_nutsack
+    100026: frame_nutsack_end
+    100028: frame_rightsak
+    100030: frame_rightsak_end
+    100032: frame_root
+    100034: head
+    400000: _body
+    400002: _head
+    400004: _scabs
+    400006: body
+    400008: //RootNode
+    400010: frame_center
+    400012: frame_head
+    400014: frame_head_end
+    400016: frame_headsak
+    400018: frame_headsak_end
+    400020: frame_leftsak
+    400022: frame_leftsak_end
+    400024: frame_nutsack
+    400026: frame_nutsack_end
+    400028: frame_rightsak
+    400030: frame_rightsak_end
+    400032: frame_root
+    400034: head
+    2300000: _body
+    2300002: _head
+    2300004: _scabs
+    2300006: body
+    2300008: frame_center
+    2300010: frame_head
+    2300012: frame_head_end
+    2300014: frame_headsak
+    2300016: frame_headsak_end
+    2300018: frame_leftsak
+    2300020: frame_leftsak_end
+    2300022: frame_nutsack
+    2300024: frame_nutsack_end
+    2300026: frame_rightsak
+    2300028: frame_rightsak_end
+    2300030: frame_root
+    2300032: head
+    3300000: _body
+    3300002: _head
+    3300004: _scabs
+    3300006: body
+    3300008: frame_center
+    3300010: frame_head
+    3300012: frame_head_end
+    3300014: frame_headsak
+    3300016: frame_headsak_end
+    3300018: frame_leftsak
+    3300020: frame_leftsak_end
+    3300022: frame_nutsack
+    3300024: frame_nutsack_end
+    3300026: frame_rightsak
+    3300028: frame_rightsak_end
+    3300030: frame_root
+    3300032: head
+    4300000: _body
+    4300002: _head
+    4300004: _scabs
+    4300006: body
+    4300008: frame_center
+    4300010: frame_head
+    4300012: frame_head_end
+    4300014: frame_headsak
+    4300016: frame_headsak_end
+    4300018: frame_leftsak
+    4300020: frame_leftsak_end
+    4300022: frame_nutsack
+    4300024: frame_nutsack_end
+    4300026: frame_rightsak
+    4300028: frame_rightsak_end
+    4300030: frame_root
+    4300032: head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

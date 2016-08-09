@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 21550b6eb0ae164418ab38fa22e001ab
+timeCreated: 1470685871
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _body
+    100004: _body 1
+    100006: _glow
+    100008: _glow 1
+    100010: _glow 2
+    100012: _glow 3
+    100014: _glow 4
+    100016: _glow 5
+    100018: _glow 6
+    100020: _glow 7
+    100022: _glow_eye
+    100024: _glow_eye 1
+    100026: _glow_rear
+    100028: _glow_rear 1
+    100030: _head
+    100032: _monitor_light
+    100034: _monitor_light 1
+    100036: _monitor_tendril
+    100038: frame_monitor_root
+    100040: frame_tendril_marker
+    100042: //RootNode
+    400000: __unnamed
+    400002: _body
+    400004: _body 1
+    400006: _glow
+    400008: _glow 1
+    400010: _glow 2
+    400012: _glow 3
+    400014: _glow 4
+    400016: _glow 5
+    400018: _glow 6
+    400020: _glow 7
+    400022: _glow_eye
+    400024: _glow_eye 1
+    400026: _glow_rear
+    400028: _glow_rear 1
+    400030: _head
+    400032: _monitor_light
+    400034: _monitor_light 1
+    400036: _monitor_tendril
+    400038: frame_monitor_root
+    400040: frame_tendril_marker
+    400042: //RootNode
+    2300000: _body
+    2300002: _body 1
+    2300004: _glow
+    2300006: _glow 1
+    2300008: _glow 2
+    2300010: _glow 3
+    2300012: _glow 4
+    2300014: _glow 5
+    2300016: _glow 6
+    2300018: _glow 7
+    2300020: _glow_eye
+    2300022: _glow_eye 1
+    2300024: _glow_rear
+    2300026: _glow_rear 1
+    2300028: _head
+    2300030: _monitor_light
+    2300032: _monitor_light 1
+    2300034: _monitor_tendril
+    3300000: _body
+    3300002: _body 1
+    3300004: _glow
+    3300006: _glow 1
+    3300008: _glow 2
+    3300010: _glow 3
+    3300012: _glow 4
+    3300014: _glow 5
+    3300016: _glow 6
+    3300018: _glow 7
+    3300020: _glow_eye
+    3300022: _glow_eye 1
+    3300024: _glow_rear
+    3300026: _glow_rear 1
+    3300028: _head
+    3300030: _monitor_light
+    3300032: _monitor_light 1
+    3300034: _monitor_tendril
+    4300000: _monitor_tendril
+    4300002: _body
+    4300004: _body
+    4300006: _glow
+    4300008: _glow
+    4300010: _glow
+    4300012: _glow
+    4300014: _glow
+    4300016: _glow
+    4300018: _glow
+    4300020: _glow
+    4300022: _glow_eye
+    4300024: _glow_eye
+    4300026: _glow_rear
+    4300028: _glow_rear
+    4300030: _head
+    4300032: _monitor_light
+    4300034: _monitor_light
+    4300036: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

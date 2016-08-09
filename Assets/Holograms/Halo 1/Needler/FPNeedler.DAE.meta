@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 76f633041e311b44881644371640ff3b
+timeCreated: 1470685997
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _flashlight
+    100004: _primary_trigger
+    100006: _smoke
+    100008: //RootNode
+    100010: frame_body
+    100012: frame_eneedle13
+    100014: frame_needle01
+    100016: frame_needle02
+    100018: frame_needle03
+    100020: frame_needle04
+    100022: frame_needle05
+    100024: frame_needle06
+    100026: frame_needle07
+    100028: frame_needle08
+    100030: frame_needle09
+    100032: frame_needle10
+    100034: frame_needle11
+    100036: frame_needle12
+    100038: frame_needle14
+    100040: frame_needle15
+    100042: frame_needle16
+    400000: __unnamed
+    400002: _flashlight
+    400004: _primary_trigger
+    400006: _smoke
+    400008: //RootNode
+    400010: frame_body
+    400012: frame_eneedle13
+    400014: frame_needle01
+    400016: frame_needle02
+    400018: frame_needle03
+    400020: frame_needle04
+    400022: frame_needle05
+    400024: frame_needle06
+    400026: frame_needle07
+    400028: frame_needle08
+    400030: frame_needle09
+    400032: frame_needle10
+    400034: frame_needle11
+    400036: frame_needle12
+    400038: frame_needle14
+    400040: frame_needle15
+    400042: frame_needle16
+    2300000: _flashlight
+    2300002: _primary_trigger
+    2300004: _smoke
+    3300000: _flashlight
+    3300002: _primary_trigger
+    3300004: _smoke
+    4300000: _primary_trigger
+    4300002: _smoke
+    4300004: _flashlight
+    4300006: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

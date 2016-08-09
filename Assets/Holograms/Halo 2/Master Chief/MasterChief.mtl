@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 24.02.2010 17:21:23
+
+newmtl masterchief
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Master Chief\masterchief.PNG
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Master Chief\masterchief.PNG
+	map_bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Master Chief\masterchief_bump.PNG
+	bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Master Chief\masterchief_bump.PNG
+
+newmtl mc_emblem
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_d C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Master Chief\Visor Cubemaps\VisorFront.png

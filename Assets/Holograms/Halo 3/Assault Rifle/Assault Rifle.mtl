@@ -1,0 +1,83 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 10.09.2010 20:14:22
+
+newmtl ColorMaterial_E3999900_fx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8902 0.6000 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl ColorMaterial_D6E49900_fx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8392 0.8941 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _1___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd assault_rifle.png
+	map_bump assault_rifle_bump.png
+	bump assault_rifle_bump.png
+
+newmtl _2___Default
+	Ns 10.0830
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd display.png
+	map_d display.png
+
+newmtl Left_Number
+	Ns 10.0830
+	Ni 1.5000
+	d 0.0000
+	Tr 0.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd numbers_plate3.png
+	map_d numbers_plate3.png
+
+newmtl Right_Number
+	Ns 10.0830
+	Ni 1.5000
+	d 0.0000
+	Tr 0.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd numbers_plate2.png
+	map_d numbers_plate2.png

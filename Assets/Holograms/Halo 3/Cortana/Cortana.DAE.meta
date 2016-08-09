@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 73f51497707bba9468b40fdc22ec3cf4
+timeCreated: 1470685994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: body_default1
+    100004: c_hair8_1
+    100006: //RootNode
+    100008: effect
+    100010: eye_left
+    100012: eye_right
+    100014: eyelashes_default1
+    100016: f_c_lip_lower1
+    100018: f_c_lip_lower2
+    100020: f_c_lip_upper1
+    100022: f_c_lip_upper2
+    100024: f_l_brow_inner
+    100026: f_l_brow_mid
+    100028: f_l_brow_outer
+    100030: f_l_cheek_lower1
+    100032: f_l_cheek_mid1
+    100034: f_l_cheek_mid2
+    100036: f_l_cheek_upper1
+    100038: f_l_cheek_upper2
+    100040: f_l_eyelid_lower
+    100042: f_l_eyelid_upper
+    100044: f_l_lip_lower1_1
+    100046: f_l_lip_lower1_2
+    100048: f_l_lip_lower2_1
+    100050: f_l_lip_lower2_2
+    100052: f_l_lip_upper1_1
+    100054: f_l_lip_upper1_2
+    100056: f_l_lip_upper2_1
+    100058: f_l_lip_upper2_2
+    100060: f_l_mouth1
+    100062: f_l_mouth2
+    100064: f_l_nose_bridge
+    100066: f_l_nose_corner
+    100068: f_r_brow_inner
+    100070: f_r_brow_mid
+    100072: f_r_brow_outer
+    100074: f_r_cheek_lower1
+    100076: f_r_cheek_mid1
+    100078: f_r_cheek_mid2
+    100080: f_r_cheek_upper1
+    100082: f_r_cheek_upper2
+    100084: f_r_eyelid_lower
+    100086: f_r_eyelid_upper
+    100088: f_r_lip_lower1_1
+    100090: f_r_lip_lower1_2
+    100092: f_r_lip_lower2_1
+    100094: f_r_lip_lower2_2
+    100096: f_r_lip_upper1_1
+    100098: f_r_lip_upper1_2
+    100100: f_r_lip_upper2_1
+    100102: f_r_lip_upper2_2
+    100104: f_r_mouth1
+    100106: f_r_mouth2
+    100108: f_r_nose_bridge
+    100110: f_r_nose_corner
+    100112: fx_center
+    100114: fx_glow
+    100116: fx_glow 1
+    100118: fx_glow 2
+    100120: fx_glow 3
+    100122: fx_glow 4
+    100124: fx_glow 5
+    100126: fx_glow 6
+    100128: fx_glow 7
+    100130: fx_glow 8
+    100132: fx_glow 9
+    100134: hair_default1
+    100136: head
+    100138: head 1
+    100140: head_default1
+    100142: jaw
+    100144: l_breast
+    100146: l_calf
+    100148: l_clavicle
+    100150: l_foot
+    100152: l_forearm
+    100154: l_hair1_1
+    100156: l_hair1_2
+    100158: l_hair1_3
+    100160: l_hair2_1
+    100162: l_hair2_2
+    100164: l_hair2_3
+    100166: l_hair3_1
+    100168: l_hair3_2
+    100170: l_hair3_3
+    100172: l_hair3_4
+    100174: l_hair3_5
+    100176: l_hair3_6
+    100178: l_hair4_1
+    100180: l_hair4_2
+    100182: l_hair4_3
+    100184: l_hair4_4
+    100186: l_hair5_1
+    100188: l_hair5_2
+    100190: l_hair5_3
+    100192: l_hair6_1
+    100194: l_hair6_2
+    100196: l_hair6_3
+    100198: l_hair7_1
+    100200: l_hand
+    100202: l_humerus_helper
+    100204: l_index_low
+    100206: l_index_mid
+    100208: l_index_tip
+    100210: l_knee_helper
+    100212: l_middle_low
+    100214: l_middle_mid
+    100216: l_middle_tip
+    100218: l_pinky_low
+    100220: l_pinky_mid
+    100222: l_pinky_tip
+    100224: l_radius_helper
+    100226: l_ring_low
+    100228: l_ring_mid
+    100230: l_ring_tip
+    100232: l_shoulder_helper
+    100234: l_thigh
+    100236: l_thumb_low
+    100238: l_thumb_mid
+    100240: l_thumb_tip
+    100242: l_toe
+    100244: l_upperarm
+    100246: l_wrist_helper
+    100248: left_foot
+    100250: left_hand
+    100252: neck
+    100254: pelvis
+    100256: r_breast
+    100258: r_calf
+    100260: r_clavicle
+    100262: r_foot
+    100264: r_forearm
+    100266: r_hair1_1
+    100268: r_hair1_2
+    100270: r_hair1_3
+    100272: r_hair2_1
+    100274: r_hair2_2
+    100276: r_hair2_3
+    100278: r_hair3_1
+    100280: r_hair3_2
+    100282: r_hair3_3
+    100284: r_hair3_4
+    100286: r_hair3_5
+    100288: r_hair4_1
+    100290: r_hair4_2
+    100292: r_hair4_3
+    100294: r_hair4_4
+    100296: r_hair5_1
+    100298: r_hair5_2
+    100300: r_hair5_3
+    100302: r_hair6_1
+    100304: r_hair6_2
+    100306: r_hair7_1
+    100308: r_hand
+    100310: r_humerus_helper
+    100312: r_index_low
+    100314: r_index_mid
+    100316: r_index_tip
+    100318: r_knee_helper
+    100320: r_middle_low
+    100322: r_middle_mid
+    100324: r_middle_tip
+    100326: r_pinky_low
+    100328: r_pinky_mid
+    100330: r_pinky_tip
+    100332: r_radius_helper
+    100334: r_ring_low
+    100336: r_ring_mid
+    100338: r_ring_tip
+    100340: r_shoulder_helper
+    100342: r_thigh
+    100344: r_thumb_low
+    100346: r_thumb_mid
+    100348: r_thumb_tip
+    100350: r_toe
+    100352: r_upperarm
+    100354: r_wrist_helper
+    100356: right_foot
+    100358: right_hand
+    100360: spine
+    100362: spine1
+    400000: body
+    400002: body_default1
+    400004: c_hair8_1
+    400006: //RootNode
+    400008: effect
+    400010: eye_left
+    400012: eye_right
+    400014: eyelashes_default1
+    400016: f_c_lip_lower1
+    400018: f_c_lip_lower2
+    400020: f_c_lip_upper1
+    400022: f_c_lip_upper2
+    400024: f_l_brow_inner
+    400026: f_l_brow_mid
+    400028: f_l_brow_outer
+    400030: f_l_cheek_lower1
+    400032: f_l_cheek_mid1
+    400034: f_l_cheek_mid2
+    400036: f_l_cheek_upper1
+    400038: f_l_cheek_upper2
+    400040: f_l_eyelid_lower
+    400042: f_l_eyelid_upper
+    400044: f_l_lip_lower1_1
+    400046: f_l_lip_lower1_2
+    400048: f_l_lip_lower2_1
+    400050: f_l_lip_lower2_2
+    400052: f_l_lip_upper1_1
+    400054: f_l_lip_upper1_2
+    400056: f_l_lip_upper2_1
+    400058: f_l_lip_upper2_2
+    400060: f_l_mouth1
+    400062: f_l_mouth2
+    400064: f_l_nose_bridge
+    400066: f_l_nose_corner
+    400068: f_r_brow_inner
+    400070: f_r_brow_mid
+    400072: f_r_brow_outer
+    400074: f_r_cheek_lower1
+    400076: f_r_cheek_mid1
+    400078: f_r_cheek_mid2
+    400080: f_r_cheek_upper1
+    400082: f_r_cheek_upper2
+    400084: f_r_eyelid_lower
+    400086: f_r_eyelid_upper
+    400088: f_r_lip_lower1_1
+    400090: f_r_lip_lower1_2
+    400092: f_r_lip_lower2_1
+    400094: f_r_lip_lower2_2
+    400096: f_r_lip_upper1_1
+    400098: f_r_lip_upper1_2
+    400100: f_r_lip_upper2_1
+    400102: f_r_lip_upper2_2
+    400104: f_r_mouth1
+    400106: f_r_mouth2
+    400108: f_r_nose_bridge
+    400110: f_r_nose_corner
+    400112: fx_center
+    400114: fx_glow
+    400116: fx_glow 1
+    400118: fx_glow 2
+    400120: fx_glow 3
+    400122: fx_glow 4
+    400124: fx_glow 5
+    400126: fx_glow 6
+    400128: fx_glow 7
+    400130: fx_glow 8
+    400132: fx_glow 9
+    400134: hair_default1
+    400136: head
+    400138: head 1
+    400140: head_default1
+    400142: jaw
+    400144: l_breast
+    400146: l_calf
+    400148: l_clavicle
+    400150: l_foot
+    400152: l_forearm
+    400154: l_hair1_1
+    400156: l_hair1_2
+    400158: l_hair1_3
+    400160: l_hair2_1
+    400162: l_hair2_2
+    400164: l_hair2_3
+    400166: l_hair3_1
+    400168: l_hair3_2
+    400170: l_hair3_3
+    400172: l_hair3_4
+    400174: l_hair3_5
+    400176: l_hair3_6
+    400178: l_hair4_1
+    400180: l_hair4_2
+    400182: l_hair4_3
+    400184: l_hair4_4
+    400186: l_hair5_1
+    400188: l_hair5_2
+    400190: l_hair5_3
+    400192: l_hair6_1
+    400194: l_hair6_2
+    400196: l_hair6_3
+    400198: l_hair7_1
+    400200: l_hand
+    400202: l_humerus_helper
+    400204: l_index_low
+    400206: l_index_mid
+    400208: l_index_tip
+    400210: l_knee_helper
+    400212: l_middle_low
+    400214: l_middle_mid
+    400216: l_middle_tip
+    400218: l_pinky_low
+    400220: l_pinky_mid
+    400222: l_pinky_tip
+    400224: l_radius_helper
+    400226: l_ring_low
+    400228: l_ring_mid
+    400230: l_ring_tip
+    400232: l_shoulder_helper
+    400234: l_thigh
+    400236: l_thumb_low
+    400238: l_thumb_mid
+    400240: l_thumb_tip
+    400242: l_toe
+    400244: l_upperarm
+    400246: l_wrist_helper
+    400248: left_foot
+    400250: left_hand
+    400252: neck
+    400254: pelvis
+    400256: r_breast
+    400258: r_calf
+    400260: r_clavicle
+    400262: r_foot
+    400264: r_forearm
+    400266: r_hair1_1
+    400268: r_hair1_2
+    400270: r_hair1_3
+    400272: r_hair2_1
+    400274: r_hair2_2
+    400276: r_hair2_3
+    400278: r_hair3_1
+    400280: r_hair3_2
+    400282: r_hair3_3
+    400284: r_hair3_4
+    400286: r_hair3_5
+    400288: r_hair4_1
+    400290: r_hair4_2
+    400292: r_hair4_3
+    400294: r_hair4_4
+    400296: r_hair5_1
+    400298: r_hair5_2
+    400300: r_hair5_3
+    400302: r_hair6_1
+    400304: r_hair6_2
+    400306: r_hair7_1
+    400308: r_hand
+    400310: r_humerus_helper
+    400312: r_index_low
+    400314: r_index_mid
+    400316: r_index_tip
+    400318: r_knee_helper
+    400320: r_middle_low
+    400322: r_middle_mid
+    400324: r_middle_tip
+    400326: r_pinky_low
+    400328: r_pinky_mid
+    400330: r_pinky_tip
+    400332: r_radius_helper
+    400334: r_ring_low
+    400336: r_ring_mid
+    400338: r_ring_tip
+    400340: r_shoulder_helper
+    400342: r_thigh
+    400344: r_thumb_low
+    400346: r_thumb_mid
+    400348: r_thumb_tip
+    400350: r_toe
+    400352: r_upperarm
+    400354: r_wrist_helper
+    400356: right_foot
+    400358: right_hand
+    400360: spine
+    400362: spine1
+    2300000: body
+    2300002: effect
+    2300004: fx_center
+    2300006: fx_glow
+    2300008: fx_glow 1
+    2300010: fx_glow 2
+    2300012: fx_glow 3
+    2300014: fx_glow 4
+    2300016: fx_glow 5
+    2300018: fx_glow 6
+    2300020: fx_glow 7
+    2300022: fx_glow 8
+    2300024: fx_glow 9
+    2300026: head 1
+    2300028: left_foot
+    2300030: left_hand
+    2300032: right_foot
+    2300034: right_hand
+    3300000: body
+    3300002: effect
+    3300004: fx_center
+    3300006: fx_glow
+    3300008: fx_glow 1
+    3300010: fx_glow 2
+    3300012: fx_glow 3
+    3300014: fx_glow 4
+    3300016: fx_glow 5
+    3300018: fx_glow 6
+    3300020: fx_glow 7
+    3300022: fx_glow 8
+    3300024: fx_glow 9
+    3300026: head 1
+    3300028: left_foot
+    3300030: left_hand
+    3300032: right_foot
+    3300034: right_hand
+    4300000: left_foot
+    4300002: fx_glow
+    4300004: right_foot
+    4300006: fx_glow
+    4300008: left_hand
+    4300010: fx_glow
+    4300012: head
+    4300014: fx_glow
+    4300016: fx_glow
+    4300018: right_hand
+    4300020: fx_glow
+    4300022: body
+    4300024: fx_center
+    4300026: fx_glow
+    4300028: fx_glow
+    4300030: fx_glow
+    4300032: fx_glow
+    4300034: effect
+    4300036: body_default1
+    4300038: eyelashes_default1
+    4300040: hair_default1
+    4300042: head_default1
+    9500000: //RootNode
+    13700000: body_default1
+    13700002: eyelashes_default1
+    13700004: hair_default1
+    13700006: head_default1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

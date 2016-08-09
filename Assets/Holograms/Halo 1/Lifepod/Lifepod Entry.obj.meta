@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4d3af0986c155b94e8ae51d3d36ba1e2
+timeCreated: 1470685909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _burn
+    100004: _cyborg_stand
+    100006: _cyborg_stand_camera
+    100008: _driver
+    100010: _driver_enter
+    100012: _jet
+    100014: _retro
+    100016: frame_brake_lower_left
+    100018: frame_brake_lower_right
+    100020: frame_brake_upper_left
+    100022: frame_brake_upper_right
+    100024: frame_lifepod
+    100026: hull
+    100028: //RootNode
+    100030: wing
+    400000: __unnamed
+    400002: _burn
+    400004: _cyborg_stand
+    400006: _cyborg_stand_camera
+    400008: _driver
+    400010: _driver_enter
+    400012: _jet
+    400014: _retro
+    400016: frame_brake_lower_left
+    400018: frame_brake_lower_right
+    400020: frame_brake_upper_left
+    400022: frame_brake_upper_right
+    400024: frame_lifepod
+    400026: hull
+    400028: //RootNode
+    400030: wing
+    2300000: __unnamed
+    2300002: _burn
+    2300004: _cyborg_stand
+    2300006: _cyborg_stand_camera
+    2300008: _driver
+    2300010: _driver_enter
+    2300012: _jet
+    2300014: _retro
+    2300016: frame_brake_lower_left
+    2300018: frame_brake_lower_right
+    2300020: frame_brake_upper_left
+    2300022: frame_brake_upper_right
+    2300024: frame_lifepod
+    2300026: hull
+    2300028: wing
+    3300000: __unnamed
+    3300002: _burn
+    3300004: _cyborg_stand
+    3300006: _cyborg_stand_camera
+    3300008: _driver
+    3300010: _driver_enter
+    3300012: _jet
+    3300014: _retro
+    3300016: frame_brake_lower_left
+    3300018: frame_brake_lower_right
+    3300020: frame_brake_upper_left
+    3300022: frame_brake_upper_right
+    3300024: frame_lifepod
+    3300026: hull
+    3300028: wing
+    4300000: __unnamed
+    4300002: _burn
+    4300004: _cyborg_stand
+    4300006: _cyborg_stand_camera
+    4300008: _driver
+    4300010: _driver_enter
+    4300012: _jet
+    4300014: _retro
+    4300016: frame_brake_lower_left
+    4300018: frame_brake_lower_right
+    4300020: frame_brake_upper_left
+    4300022: frame_brake_upper_right
+    4300024: frame_lifepod
+    4300026: hull
+    4300028: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

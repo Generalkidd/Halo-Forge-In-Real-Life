@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 3af0f89ad00b0b04288f11d28473f6dc
+timeCreated: 1470685894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _debris1
+    100004: _debris2
+    100006: _debris3
+    100008: _explosion_debris
+    100010: _explosion_debris2
+    100012: _explosion_poa_back
+    100014: _explosion_poa_front
+    100016: _explosion_smallsection
+    100018: _shockhit
+    100020: frame_poa_shochwave
+    100022: frame_ring
+    100024: frame_ring01
+    100026: frame_ring02
+    100028: frame_ring03
+    100030: frame_ring04
+    100032: frame_ring05
+    100034: frame_ring06
+    100036: frame_ring07
+    100038: frame_ring08
+    100040: frame_ring09
+    100042: frame_ring10
+    100044: frame_ring11
+    100046: frame_shockwave_left
+    100048: frame_shockwave_right
+    100050: frame_thrownsection_center
+    100052: frame_thrownsection_end02
+    100054: frame_thrownsection_end03
+    100056: //RootNode
+    400000: __unnamed
+    400002: _debris1
+    400004: _debris2
+    400006: _debris3
+    400008: _explosion_debris
+    400010: _explosion_debris2
+    400012: _explosion_poa_back
+    400014: _explosion_poa_front
+    400016: _explosion_smallsection
+    400018: _shockhit
+    400020: frame_poa_shochwave
+    400022: frame_ring
+    400024: frame_ring01
+    400026: frame_ring02
+    400028: frame_ring03
+    400030: frame_ring04
+    400032: frame_ring05
+    400034: frame_ring06
+    400036: frame_ring07
+    400038: frame_ring08
+    400040: frame_ring09
+    400042: frame_ring10
+    400044: frame_ring11
+    400046: frame_shockwave_left
+    400048: frame_shockwave_right
+    400050: frame_thrownsection_center
+    400052: frame_thrownsection_end02
+    400054: frame_thrownsection_end03
+    400056: //RootNode
+    2300000: __unnamed
+    2300002: _debris1
+    2300004: _debris2
+    2300006: _debris3
+    2300008: _explosion_debris
+    2300010: _explosion_debris2
+    2300012: _explosion_poa_back
+    2300014: _explosion_poa_front
+    2300016: _explosion_smallsection
+    2300018: _shockhit
+    2300020: frame_poa_shochwave
+    2300022: frame_ring
+    2300024: frame_ring01
+    2300026: frame_ring02
+    2300028: frame_ring03
+    2300030: frame_ring04
+    2300032: frame_ring05
+    2300034: frame_ring06
+    2300036: frame_ring07
+    2300038: frame_ring08
+    2300040: frame_ring09
+    2300042: frame_ring10
+    2300044: frame_ring11
+    2300046: frame_shockwave_left
+    2300048: frame_shockwave_right
+    2300050: frame_thrownsection_center
+    2300052: frame_thrownsection_end02
+    2300054: frame_thrownsection_end03
+    3300000: __unnamed
+    3300002: _debris1
+    3300004: _debris2
+    3300006: _debris3
+    3300008: _explosion_debris
+    3300010: _explosion_debris2
+    3300012: _explosion_poa_back
+    3300014: _explosion_poa_front
+    3300016: _explosion_smallsection
+    3300018: _shockhit
+    3300020: frame_poa_shochwave
+    3300022: frame_ring
+    3300024: frame_ring01
+    3300026: frame_ring02
+    3300028: frame_ring03
+    3300030: frame_ring04
+    3300032: frame_ring05
+    3300034: frame_ring06
+    3300036: frame_ring07
+    3300038: frame_ring08
+    3300040: frame_ring09
+    3300042: frame_ring10
+    3300044: frame_ring11
+    3300046: frame_shockwave_left
+    3300048: frame_shockwave_right
+    3300050: frame_thrownsection_center
+    3300052: frame_thrownsection_end02
+    3300054: frame_thrownsection_end03
+    4300000: __unnamed
+    4300002: _debris1
+    4300004: _debris2
+    4300006: _debris3
+    4300008: _explosion_debris
+    4300010: _explosion_debris2
+    4300012: _explosion_poa_back
+    4300014: _explosion_poa_front
+    4300016: _explosion_smallsection
+    4300018: _shockhit
+    4300020: frame_poa_shochwave
+    4300022: frame_ring
+    4300024: frame_ring01
+    4300026: frame_ring02
+    4300028: frame_ring03
+    4300030: frame_ring04
+    4300032: frame_ring05
+    4300034: frame_ring06
+    4300036: frame_ring07
+    4300038: frame_ring08
+    4300040: frame_ring09
+    4300042: frame_ring10
+    4300044: frame_ring11
+    4300046: frame_shockwave_left
+    4300048: frame_shockwave_right
+    4300050: frame_thrownsection_center
+    4300052: frame_thrownsection_end02
+    4300054: frame_thrownsection_end03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

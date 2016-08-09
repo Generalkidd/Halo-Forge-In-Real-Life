@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 3146a921c4c9db64381baee5343c60bf
+timeCreated: 1470685887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: __unnamed
+    100002: _body
+    100004: _head
+    100006: _scabs
+    100008: _scabs01
+    100010: _scabs02
+    100012: _scabs03
+    100014: _scabs04
+    100016: EnvironmentAmbientLight
+    100018: EnvironmentAmbientLight 1
+    100020: //RootNode
+    100022: frame_foot_left
+    100024: frame_foot_right
+    100026: frame_forearm_left
+    100028: frame_forearm_right
+    100030: frame_hand_left
+    100032: frame_hand_right
+    100034: frame_knee_left
+    100036: frame_knee_right
+    100038: frame_root
+    100040: frame_sack_center
+    100042: frame_sack_left
+    100044: frame_sack_right
+    100046: frame_sack_root
+    100048: frame_shoulder_left
+    100050: frame_shoulder_right
+    100052: frame_spine_end
+    100054: frame_spine_low
+    100056: frame_spine_mid
+    100058: frame_thigh_left
+    100060: frame_thigh_right
+    100062: frame_upperarm_left
+    100064: frame_upperarm_right
+    400000: __unnamed
+    400002: _body
+    400004: _head
+    400006: _scabs
+    400008: _scabs01
+    400010: _scabs02
+    400012: _scabs03
+    400014: _scabs04
+    400016: EnvironmentAmbientLight
+    400018: EnvironmentAmbientLight 1
+    400020: //RootNode
+    400022: frame_foot_left
+    400024: frame_foot_right
+    400026: frame_forearm_left
+    400028: frame_forearm_right
+    400030: frame_hand_left
+    400032: frame_hand_right
+    400034: frame_knee_left
+    400036: frame_knee_right
+    400038: frame_root
+    400040: frame_sack_center
+    400042: frame_sack_left
+    400044: frame_sack_right
+    400046: frame_sack_root
+    400048: frame_shoulder_left
+    400050: frame_shoulder_right
+    400052: frame_spine_end
+    400054: frame_spine_low
+    400056: frame_spine_mid
+    400058: frame_thigh_left
+    400060: frame_thigh_right
+    400062: frame_upperarm_left
+    400064: frame_upperarm_right
+    2300000: _body
+    2300002: _head
+    2300004: _scabs
+    2300006: _scabs01
+    2300008: _scabs02
+    2300010: _scabs03
+    2300012: _scabs04
+    3300000: _body
+    3300002: _head
+    3300004: _scabs
+    3300006: _scabs01
+    3300008: _scabs02
+    3300010: _scabs03
+    3300012: _scabs04
+    4300000: _body
+    4300002: _scabs02
+    4300004: _scabs04
+    4300006: _scabs
+    4300008: _scabs01
+    4300010: _scabs03
+    4300012: _head
+    4300014: __unnamed
+    9500000: //RootNode
+    13700000: __unnamed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

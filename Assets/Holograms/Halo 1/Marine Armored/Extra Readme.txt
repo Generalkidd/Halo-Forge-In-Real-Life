@@ -1,0 +1,1 @@
+Well neither of the importers I could use really got the material assignments right for the faces. All the textures and face models are there, but you'll have to put the right face textures on them on your own.

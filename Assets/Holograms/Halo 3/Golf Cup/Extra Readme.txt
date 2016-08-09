@@ -1,0 +1,1 @@
+The cloth part of the flag in the model is a placeholder. 

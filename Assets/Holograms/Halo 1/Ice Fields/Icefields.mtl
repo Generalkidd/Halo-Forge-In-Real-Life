@@ -1,0 +1,334 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 26.04.2010 11:53:10
+
+newmtl Material_icefieldsicefields_ground_ice
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+
+newmtl Material_icefieldsicefields_ground
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+
+newmtl Material_icefieldsicefields_cliff_walls
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_cliff_walls.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_cliff_walls.png
+
+newmtl Material_icefieldsicefields_ground_ice_patches
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+
+newmtl Material_icefieldsmetal_flat_generic
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal flat generic.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal flat generic.png
+
+newmtl Material_icefieldsb40_metal_plate_floor_ext
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal plate floor ext.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal plate floor ext.png
+
+newmtl Material_icefieldsb40_panels_generic_ext
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal panels generic ext.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal panels generic ext.png
+
+newmtl Material_icefieldsb40_bridgeramp
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Levels\Ice Fields\b40_bridgeramp.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Levels\Ice Fields\b40_bridgeramp.png
+	map_bump Map__34_Normal Bump.tga
+
+newmtl Material_icefieldscap_metal
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\bloodgulch\bitmaps\cap_metal.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\bloodgulch\bitmaps\cap_metal.png
+
+newmtl Material_icefieldssidewinder_generator
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal panels generator.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\b30\bitmaps\metal panels generator.png
+
+newmtl Material_icefieldsicefields_ice_caves
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_ground.png
+
+newmtl Material_icefieldsicefields_base_roof
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_roof.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_roof.png
+
+newmtl Material_icefieldsbeavercreek_ladder
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Levels\Ice Fields\beaver ladder.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Levels\Ice Fields\beaver ladder.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\Pre Nuke HD files\Public Documents\Documents\Spriter's resource\Models\Halo\Levels\Ice Fields\beaver ladder.png
+	map_bump -bm 0.3000 Map__37_Normal Bump.tga
+
+newmtl Material_icefieldsicefields_light
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material_icefieldsicefields_base_lights_red
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_red.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_red.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_red.png
+
+newmtl Material_icefieldsteleporter_shield
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\scenery\teleporter_shield\bitmaps\teleporter_shield_dust.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\scenery\teleporter_shield\bitmaps\teleporter_shield_dust.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\scenery\teleporter_shield\bitmaps\teleporter_shield_dust.png
+
+newmtl Material_icefieldsicefields_base_stripes_red
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+
+newmtl Material_icefieldsicefields_symbol_red
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_red.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_red.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_red.png
+
+newmtl Material_icefieldsicefields_arrow_white
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\dangercanyon\bitmaps\dangercanyon_arrow_white.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\dangercanyon\bitmaps\dangercanyon_arrow_white.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\dangercanyon\bitmaps\dangercanyon_arrow_white.png
+
+newmtl Material_icefieldsicefields_base_lights_blue
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_blue.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_blue.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_lights_blue.png
+
+newmtl Material_icefieldsicefields_base_stripes_blue
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_base_stripes.png
+
+newmtl Material_icefieldsgreenlight
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\c10\bitmaps\c10_inv.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\c10\bitmaps\c10_inv.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\c10\bitmaps\c10_inv.png
+
+newmtl Material_icefieldsicefields_symbol_blue
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000
+	map_Ka F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_blue.png
+	map_Kd F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_blue.png
+	map_d F:\Softwrap\YOYOGAMESGM70FINAL\GM7FILES\HaloCustomEdition\data\levels\test\icefields\bitmaps\icefields_symbol_blue.png

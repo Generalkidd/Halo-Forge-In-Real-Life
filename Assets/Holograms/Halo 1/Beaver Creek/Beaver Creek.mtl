@@ -1,0 +1,265 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 21.01.2011 12:34:11
+
+newmtl _beavercreekbeavercreek_cliffs
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beavercreek cliffs.png
+	map_Kd Textures\beavercreek cliffs.png
+
+newmtl _beavercreekbeavercreek_boulder
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beavercreek boulder.png
+	map_Kd Textures\beavercreek boulder.png
+
+newmtl _beavercreekbeavercreek_ground
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beavercreek ground.png
+	map_Kd Textures\beavercreek ground.png
+
+newmtl _beavercreekmetal_panels_generic
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal panels generic.png
+	map_Kd Textures\metal panels generic.png
+
+newmtl _beavercreekbeavercreek_bridge
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beavercreek bridge.png
+	map_Kd Textures\beavercreek bridge.png
+
+newmtl _beavercreekbeavercreek_ladder
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beaver ladder.png
+	map_Kd Textures\beaver ladder.png
+	map_d Textures\beaver ladder bump.png
+
+newmtl _beavercreekmetal_flat_generic
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal flat generic.png
+	map_Kd Textures\metal flat generic.png
+
+newmtl _beavercreekmetal_strips_narrow_ext
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal strips narrow ext.png
+	map_Kd Textures\metal strips narrow ext.png
+
+newmtl _beavercreekmetal_plate_floor_ext
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _beavercreekmetal_panels_generic_ext_clean
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _beavercreekmetal_panels_generic_ext
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal panels generic ext.png
+	map_Kd Textures\metal panels generic ext.png
+
+newmtl _beavercreekmetal_panels_ext_unearthed
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal panels ext unearthed.png
+	map_Kd Textures\metal panels ext unearthed.png
+
+newmtl _beavercreekmetal_strips_wide
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\metal strips wide.png
+	map_Kd Textures\metal strips wide.png
+
+newmtl _beavercreekbright_blue_beaver
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\lights small strips.png
+	map_Kd Textures\lights small strips.png
+	map_d Textures\lights small strips.png
+
+newmtl _beavercreekbright_yellow_beaver
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\lights small strips.png
+	map_Kd Textures\lights small strips.png
+	map_d Textures\lights small strips.png
+
+newmtl _beavercreeklight_bright_overhead_prisoner
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\lights small strips.png
+	map_Kd Textures\lights small strips.png
+	map_d Textures\lights small strips.png
+
+newmtl _beavercreekbeaver_water
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\beavercreek_flow.png
+	map_Kd Textures\beavercreek_flow.png
+	map_d Textures\beavercreek_flow_alpha.png
+
+newmtl _beavercreekgreenlight
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\c10_inv.png
+	map_Kd Textures\c10_inv.png
+
+newmtl wire_204204204
+	Ns 32
+	d 1
+	Tr 1
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500

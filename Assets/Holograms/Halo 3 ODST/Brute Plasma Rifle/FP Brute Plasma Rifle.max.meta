@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: e149d73350643604b952f016cdcf6b0d
+timeCreated: 1470686078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 308_dirt_dbl2
+    100002: analytical_specular_contribution
+    100004: bulletwater_2
+    100006: claymore_expl_lod_far1
+    100008: claymore_expl_lod_far2
+    100010: claymore_expl_lod_far3
+    100012: claymore_stick_biped4
+    100014: default_default1
+    100016: //RootNode
+    100018: left_hand
+    100020: primary_trigger
+    100022: primary_trigger 1
+    100024: smg_dual_pose_r1
+    100026: sn_switch_to
+    100028: sn_switch_to 1
+    100030: spike_flyby3
+    100032: spike_flyby4
+    100034: spikes
+    400000: 308_dirt_dbl2
+    400002: analytical_specular_contribution
+    400004: bulletwater_2
+    400006: claymore_expl_lod_far1
+    400008: claymore_expl_lod_far2
+    400010: claymore_expl_lod_far3
+    400012: claymore_stick_biped4
+    400014: default_default1
+    400016: //RootNode
+    400018: left_hand
+    400020: primary_trigger
+    400022: primary_trigger 1
+    400024: smg_dual_pose_r1
+    400026: sn_switch_to
+    400028: sn_switch_to 1
+    400030: spike_flyby3
+    400032: spike_flyby4
+    400034: spikes
+    2300000: 308_dirt_dbl2
+    2300002: bulletwater_2
+    2300004: claymore_stick_biped4
+    2300006: left_hand
+    2300008: primary_trigger
+    2300010: primary_trigger 1
+    2300012: smg_dual_pose_r1
+    2300014: sn_switch_to
+    2300016: sn_switch_to 1
+    3300000: 308_dirt_dbl2
+    3300002: bulletwater_2
+    3300004: claymore_stick_biped4
+    3300006: left_hand
+    3300008: primary_trigger
+    3300010: primary_trigger 1
+    3300012: smg_dual_pose_r1
+    3300014: sn_switch_to
+    3300016: sn_switch_to 1
+    4300000: claymore_stick_biped4
+    4300002: sn_switch_to
+    4300004: sn_switch_to
+    4300006: bulletwater_2
+    4300008: 308_dirt_dbl2
+    4300010: left_hand
+    4300012: smg_dual_pose_r1
+    4300014: primary_trigger
+    4300016: primary_trigger
+    4300018: default_default1
+    9500000: //RootNode
+    13700000: default_default1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

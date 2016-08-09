@@ -1,0 +1,66 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 24.02.2010 17:54:01
+
+newmtl heretic
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic.PNG
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic.PNG
+	map_bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\HereticBump.PNG
+	bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\HereticBump.PNG
+
+newmtl teeth
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\teeth.PNG
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\teeth.PNG
+	map_d C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\teethBump.PNG
+	map_bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\teethBump.PNG
+	bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\teethBump.PNG
+
+newmtl heretic_lights
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic.PNG
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic.PNG
+	map_d C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic_alpha.PNG
+	map_bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\HereticBump.PNG
+	bump C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\HereticBump.PNG
+
+newmtl heretic_lens
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic_lens.PNG
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Halo 2\Heretic Elite\heretic_lens.PNG

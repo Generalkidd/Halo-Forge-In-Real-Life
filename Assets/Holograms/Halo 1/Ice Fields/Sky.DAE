@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Shadowth117</author>
+      <authoring_tool>3dsMax 11 - Feeling ColladaMax v3.05B.</authoring_tool>
+      <comments>ColladaMax Export Options: ExportNormals=1;ExportEPolyAsTriangles=1;ExportXRefs=1;ExportSelected=0;ExportTangents=0;ExportAnimations=1;SampleAnim=0;ExportAnimClip=0;BakeMatrices=0;ExportRelativePaths=1;AnimStart=0;AnimEnd=3.33333;</comments>
+    </contributor>
+    <created>2010-04-26T16:08:27Z</created>
+    <modified>2010-04-26T16:08:27Z</modified>
+    <unit meter="0.0254" name="inch"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="threshold_dusk.png" name="threshold_dusk_png">
+      <init_from>./threshold%20dusk.png</init_from>
+    </image>
+    <image id="basis_dusk.png" name="basis_dusk_png">
+      <init_from>./basis%20dusk.png</init_from>
+    </image>
+    <image id="ring_dusk.png" name="ring_dusk_png">
+      <init_from>./ring%20dusk.png</init_from>
+    </image>
+    <image id="sky_dusk.png" name="sky_dusk_png">
+      <init_from>./sky%20dusk.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="threshold_dusk" name="threshold_dusk">
+      <instance_effect url="#threshold_dusk-fx"/>
+    </material>
+    <material id="basis_dusk" name="basis_dusk">
+      <instance_effect url="#basis_dusk-fx"/>
+    </material>
+    <material id="ring_dusk" name="ring_dusk">
+      <instance_effect url="#ring_dusk-fx"/>
+    </material>
+    <material id="sky_dusk" name="sky_dusk">
+      <instance_effect url="#sky_dusk-fx"/>
+    </material>
+  </library_materials>
+  <library_effects>
+    <effect id="threshold_dusk-fx" name="threshold_dusk">
+      <profile_COMMON>
+        <newparam sid="threshold_dusk_png-surface">
+          <surface type="2D">
+            <init_from>threshold_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="threshold_dusk_png-sampler">
+          <sampler2D>
+            <source>threshold_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <newparam sid="threshold_dusk_png-surface">
+          <surface type="2D">
+            <init_from>threshold_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="threshold_dusk_png-sampler">
+          <sampler2D>
+            <source>threshold_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="threshold_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0.415939</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <reflectivity>
+              <float>1</float>
+            </reflectivity>
+            <transparent opaque="A_ONE">
+              <texture texture="threshold_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+          <extra>
+            <technique profile="FCOLLADA">
+              <spec_level>
+                <float>0</float>
+              </spec_level>
+              <emission_level>
+                <float>0</float>
+              </emission_level>
+            </technique>
+          </extra>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="MAX3D">
+          <faceted>0</faceted>
+          <double_sided>0</double_sided>
+          <wireframe>0</wireframe>
+          <face_map>0</face_map>
+        </technique>
+      </extra>
+    </effect>
+    <effect id="basis_dusk-fx" name="basis_dusk">
+      <profile_COMMON>
+        <newparam sid="basis_dusk_png-surface">
+          <surface type="2D">
+            <init_from>basis_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="basis_dusk_png-sampler">
+          <sampler2D>
+            <source>basis_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <newparam sid="basis_dusk_png-surface">
+          <surface type="2D">
+            <init_from>basis_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="basis_dusk_png-sampler">
+          <sampler2D>
+            <source>basis_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="basis_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0.415939</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <reflectivity>
+              <float>1</float>
+            </reflectivity>
+            <transparent opaque="A_ONE">
+              <texture texture="basis_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+          <extra>
+            <technique profile="FCOLLADA">
+              <spec_level>
+                <float>0</float>
+              </spec_level>
+              <emission_level>
+                <float>0</float>
+              </emission_level>
+            </technique>
+          </extra>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="MAX3D">
+          <faceted>0</faceted>
+          <double_sided>0</double_sided>
+          <wireframe>0</wireframe>
+          <face_map>0</face_map>
+        </technique>
+      </extra>
+    </effect>
+    <effect id="ring_dusk-fx" name="ring_dusk">
+      <profile_COMMON>
+        <newparam sid="ring_dusk_png-surface">
+          <surface type="2D">
+            <init_from>ring_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="ring_dusk_png-sampler">
+          <sampler2D>
+            <source>ring_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="ring_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0.415939</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <reflectivity>
+              <float>1</float>
+            </reflectivity>
+            <transparent opaque="A_ONE">
+              <color>1 1 1 1</color>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+          <extra>
+            <technique profile="FCOLLADA">
+              <spec_level>
+                <float>0</float>
+              </spec_level>
+              <emission_level>
+                <float>0</float>
+              </emission_level>
+            </technique>
+          </extra>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="MAX3D">
+          <faceted>0</faceted>
+          <double_sided>0</double_sided>
+          <wireframe>0</wireframe>
+          <face_map>0</face_map>
+        </technique>
+      </extra>
+    </effect>
+    <effect id="sky_dusk-fx" name="sky_dusk">
+      <profile_COMMON>
+        <newparam sid="sky_dusk_png-surface">
+          <surface type="2D">
+            <init_from>sky_dusk.png</init_from>
+            <format>A8R8G8B8</format>
+          </surface>
+        </newparam>
+        <newparam sid="sky_dusk_png-sampler">
+          <sampler2D>
+            <source>sky_dusk_png-surface</source>
+            <wrap_s>WRAP</wrap_s>
+            <wrap_t>WRAP</wrap_t>
+            <minfilter>NONE</minfilter>
+            <magfilter>NONE</magfilter>
+            <mipfilter>NONE</mipfilter>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="sky_dusk_png-sampler" texcoord="CHANNEL1">
+                <extra>
+                  <technique profile="MAYA">
+                    <mirrorU>0</mirrorU>
+                    <mirrorV>0</mirrorV>
+                    <wrapU>1</wrapU>
+                    <wrapV>1</wrapV>
+                    <repeatU>1</repeatU>
+                    <repeatV>1</repeatV>
+                    <offsetU>0</offsetU>
+                    <offsetV>0</offsetV>
+                    <rotateUV>0</rotateUV>
+                  </technique>
+                  <technique profile="MAX3D">
+                    <amount>1</amount>
+                  </technique>
+                </extra>
+              </texture>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0.415939</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <reflectivity>
+              <float>1</float>
+            </reflectivity>
+            <transparent opaque="A_ONE">
+              <color>1 1 1 1</color>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+          <extra>
+            <technique profile="FCOLLADA">
+              <spec_level>
+                <float>0</float>
+              </spec_level>
+              <emission_level>
+                <float>0</float>
+              </emission_level>
+            </technique>
+          </extra>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="MAX3D">
+          <faceted>0</faceted>
+          <double_sided>0</double_sided>
+          <wireframe>0</wireframe>
+          <face_map>0</face_map>
+        </technique>
+      </extra>
+    </effect>
+  </library_effects>
+  <library_geometries>
+    <geometry id="_5.basis-mesh" name="_5_basis">
+      <mesh>
+        <source id="_5.basis-mesh-positions">
+          <float_array id="_5.basis-mesh-positions-array" count="12">691911 1.76304e6 1.36753e6 516392 1.50062e6 1.66144e6 1.05421e6 1.52908e6 1.375e6 878690 1.26666e6 1.66891e6</float_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_5.basis-mesh-normals">
+          <float_array id="_5.basis-mesh-normals-array" count="12">-0.359051 -0.579376 -0.731715 -0.359051 -0.579376 -0.731715 -0.359051 -0.579376 -0.731714 -0.359051 -0.579375 -0.731715</float_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-normals-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_5.basis-mesh-map-channel1">
+          <float_array id="_5.basis-mesh-map-channel1-array" count="12">0.99541 0.007358 0 0.99541 0.997057 0 0.004415 0.005886 0 0.002943 0.997057 0</float_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-map-channel1-array" count="4" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="_5.basis-mesh-vertices">
+          <input semantic="POSITION" source="#_5.basis-mesh-positions"/>
+        </vertices>
+        <triangles material="basis_dusk" count="2">
+          <input semantic="VERTEX" source="#_5.basis-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#_5.basis-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#_5.basis-mesh-map-channel1" offset="2" set="1"/>
+          <p>2 0 2 1 1 1 0 2 0 1 1 1 2 0 2 3 3 3</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="_4.threshold-mesh" name="_4_threshold">
+      <mesh>
+        <source id="_4.threshold-mesh-positions">
+          <float_array id="_4.threshold-mesh-positions-array" count="12">-1.54467e6 -2.70151e6 187998 2.36777e6 -2.02478e6 116052 -1.5307e6 -2.57162e6 2.16928e6 2.38173e6 -1.89489e6 2.09734e6</float_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_4.threshold-mesh-normals">
+          <float_array id="_4.threshold-mesh-normals-array" count="12">-0.171227 0.983199 -0.06325 -0.171227 0.983199 -0.06325 -0.171227 0.983199 -0.06325 -0.171227 0.983199 -0.06325</float_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-normals-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_4.threshold-mesh-map-channel1">
+          <float_array id="_4.threshold-mesh-map-channel1-array" count="12">0.994762 0.016206 0 0.004327 0.016942 0 0.994761 0.997705 0 0.005063 0.997705 0</float_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-map-channel1-array" count="4" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="_4.threshold-mesh-vertices">
+          <input semantic="POSITION" source="#_4.threshold-mesh-positions"/>
+        </vertices>
+        <triangles material="threshold_dusk" count="2">
+          <input semantic="VERTEX" source="#_4.threshold-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#_4.threshold-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#_4.threshold-mesh-map-channel1" offset="2" set="1"/>
+          <p>2 0 2 1 1 1 0 2 0 1 1 1 2 0 2 3 3 3</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="_0.sky-mesh" name="_0_sky">
+      <mesh>
+        <source id="_0.sky-mesh-positions">
+          <float_array id="_0.sky-mesh-positions-array" count="111">-3.93431e6 -3.92912e6 -452.024 -4.65291e6 -1.24724e6 800922 -5.37152e6 -1.43979e6 -452.024 -4.65291e6 1.24208e6 800922 -5.37152e6 1.43463e6 -452.024 -3.40825e6 3.3979e6 800922 -3.93431e6 3.92395e6 -452.024 -1.25243e6 4.64256e6 800922 -1.44498e6 5.36116e6 -452.024 1.23689e6 4.64256e6 800922 1.42944e6 5.36116e6 -452.024 3.39271e6 3.3979e6 800922 3.91876e6 3.92395e6 -452.024 4.63737e6 1.24208e6 800922 5.35597e6 1.43463e6 -452.024 4.63737e6 -1.24724e6 800922 5.35597e6 -1.43979e6 -452.024 3.39271e6 -3.40306e6 800922 3.91876e6 -3.92912e6 -452.024 1.23689e6 -4.64772e6 800922 1.42944e6 -5.36633e6 -452.024 -1.25244e6 -4.64772e6 800922 -1.44499e6 -5.36633e6 -452.024 -3.40825e6 -3.40306e6 800922 -2.68965e6 -721187 2.04436e6 -2.68965e6 716024 2.04436e6 -1.97104e6 1.96069e6 2.04436e6 -726379 2.67929e6 2.04436e6 710833 2.67929e6 2.04436e6 1.95549e6 1.96069e6 2.04436e6 2.6741e6 716024 2.04436e6 2.6741e6 -721187 2.04436e6 1.95549e6 -1.96585e6 2.04436e6 710832 -2.68445e6 2.04436e6 -726379 -2.68445e6 2.04436e6 -1.97104e6 -1.96585e6 2.04436e6 -7773.14 -2581.44 3.13284e6</float_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-positions-array" count="37" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.sky-mesh-normals">
+          <float_array id="_0.sky-mesh-normals-array" count="111">0.707902 0.189682 -0.680364 0.624421 0.167313 -0.762958 0.51822 0.51822 -0.680364 0.624421 -0.167313 -0.762958 0.707902 -0.189682 -0.680364 0.457108 -0.457108 -0.762958 0.51822 -0.518221 -0.680364 0.167313 -0.624421 -0.762958 0.189682 -0.707902 -0.680364 -0.167313 -0.624421 -0.762958 -0.189682 -0.707902 -0.680364 -0.457108 -0.457108 -0.762958 -0.518221 -0.51822 -0.680364 -0.624421 -0.167313 -0.762958 -0.707902 -0.189682 -0.680364 -0.624421 0.167313 -0.762958 -0.707902 0.189682 -0.680364 -0.457108 0.457108 -0.762958 -0.51822 0.51822 -0.680364 -0.167313 0.624421 -0.762958 -0.189682 0.707902 -0.680364 0.167313 0.624421 -0.762958 0.189682 0.707902 -0.680364 0.457108 0.457108 -0.762958 0.441104 0.118193 -0.889639 0.441104 -0.118194 -0.889639 0.322911 -0.322911 -0.889639 0.118193 -0.441104 -0.889639 -0.118194 -0.441104 -0.889639 -0.322911 -0.322911 -0.889639 -0.441104 -0.118194 -0.889639 -0.441104 0.118194 -0.889639 -0.322911 0.322911 -0.889639 -0.118193 0.441104 -0.889639 0.118194 0.441104 -0.889639 0.322911 0.322911 -0.889639 0 0 -1</float_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-normals-array" count="37" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.sky-mesh-map-channel1">
+          <float_array id="_0.sky-mesh-map-channel1-array" count="111">0.74975 0.06742 0 0.5 0.095458 0 0.5 0.0005 0 0.297729 0.149656 0 0.25025 0.06742 0 0.149656 0.297729 0 0.06742 0.25025 0 0.095457 0.5 0 0.000499 0.5 0 0.149656 0.702271 0 0.06742 0.74975 0 0.297729 0.850344 0 0.25025 0.93258 0 0.5 0.904543 0 0.5 0.999501 0 0.702271 0.850344 0 0.74975 0.93258 0 0.850344 0.702271 0 0.93258 0.74975 0 0.904542 0.5 0 0.9995 0.5 0 0.850344 0.297729 0 0.93258 0.25025 0 0.702271 0.149656 0 0.5 0.266437 0 0.383219 0.297729 0 0.297729 0.383219 0 0.266437 0.5 0 0.297729 0.616781 0 0.383218 0.702271 0 0.5 0.733563 0 0.616781 0.702271 0 0.702271 0.616782 0 0.733563 0.5 0 0.702271 0.383219 0 0.616781 0.297729 0 0.5 0.5 0</float_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-map-channel1-array" count="37" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="_0.sky-mesh-vertices">
+          <input semantic="POSITION" source="#_0.sky-mesh-positions"/>
+        </vertices>
+        <triangles material="sky_dusk" count="60">
+          <input semantic="VERTEX" source="#_0.sky-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#_0.sky-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#_0.sky-mesh-map-channel1" offset="2" set="1"/>
+          <p>2 0 2 1 1 1 0 2 0 1 1 1 2 0 2 3 3 3 4 4 4 3 3 3 2 0 2 3 3 3 4 4 4 5 5 5 6 6 6 5 5 5 4 4 4 5 5 5 6 6 6 7 7 7 8 8 8 7 7 7 6 6 6 7 7 7 8 8 8 9 9 9 10 10 10 9 9 9 8 8 8 9 9 9 10 10 10 11 11 11 12 12 12 11 11 11 10 10 10 11 11 11 12 12 12 13 13 13 14 14 14 13 13 13 12 12 12 13 13 13 14 14 14 15 15 15 16 16 16 15 15 15 14 14 14 15 15 15 16 16 16 17 17 17 18 18 18 17 17 17 16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 19 19 19 18 18 18 19 19 19 20 20 20 21 21 21 22 22 22 21 21 21 20 20 20 21 21 21 22 22 22 23 23 23 0 2 0 23 23 23 22 22 22 1 1 1 23 23 23 0 2 0 23 23 23 1 1 1 24 24 24 24 24 24 1 1 1 25 25 25 3 3 3 25 25 25 1 1 1 25 25 25 3 3 3 26 26 26 5 5 5 26 26 26 3 3 3 26 26 26 5 5 5 27 27 27 7 7 7 27 27 27 5 5 5 27 27 27 7 7 7 28 28 28 9 9 9 28 28 28 7 7 7 28 28 28 9 9 9 29 29 29 11 11 11 29 29 29 9 9 9 29 29 29 11 11 11 30 30 30 13 13 13 30 30 30 11 11 11 30 30 30 13 13 13 31 31 31 15 15 15 31 31 31 13 13 13 31 31 31 15 15 15 32 32 32 17 17 17 32 32 32 15 15 15 32 32 32 17 17 17 33 33 33 19 19 19 33 33 33 17 17 17 33 33 33 19 19 19 34 34 34 21 21 21 34 34 34 19 19 19 34 34 34 21 21 21 35 35 35 23 23 23 35 35 35 21 21 21 24 24 24 35 35 35 23 23 23 35 35 35 24 24 24 36 36 36 25 25 25 36 36 36 24 24 24 26 26 26 36 36 36 25 25 25 27 27 27 36 36 36 26 26 26 28 28 28 36 36 36 27 27 27 29 29 29 36 36 36 28 28 28 30 30 30 36 36 36 29 29 29 31 31 31 36 36 36 30 30 30 32 32 32 36 36 36 31 31 31 33 33 33 36 36 36 32 32 32 34 34 34 36 36 36 33 33 33 36 36 36 34 34 34 35 35 35</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="_0.ring-mesh" name="_0_ring">
+      <mesh>
+        <source id="_0.ring-mesh-positions">
+          <float_array id="_0.ring-mesh-positions-array" count="666">-936495 -320555 304125 -1.02448e6 -316872 514717 -971312 -190615 304125 -1.04567e6 -237815 514717 -878483 -337403 190274 -936495 -320555 304125 -929511 -146963 190274 -971312 -190615 304125 -855480 11114.2 -7999.93 -795395 -213125 -8000.02 -811304 -217388 17414.8 -735310 -437365 -7999.96 -811304 -217388 17414.8 -871148 6915.95 17653.8 -855480 11114.2 -7999.93 -907326 142516 17798.2 -811304 -217388 17414.8 -893813 5650.07 54102 -871148 6915.95 17653.8 -907326 142516 17798.2 -811304 -217388 17414.8 -735310 -437365 -7999.96 -750978 -441563 17653.7 -714509 -577085 17798.2 -811304 -217388 17414.8 -750978 -441563 17653.7 -771240 -451799 54102 -714509 -577085 17798.2 -638819 -185397 1.74033e6 -445330 -131602 1.85902e6 -645949 -158788 1.74033e6 -451498 -108584 1.85901e6 -445330 -131602 1.85902e6 -228632 -71454.9 1.93282e6 -451498 -108584 1.85901e6 -233760 -52315.7 1.93281e6 971305 190639 304125 936488 320578 304125 1.04566e6 237822 514717 1.02448e6 316878 514717 929490 147041 190274 878461 337481 190274 971305 190639 304125 936488 320578 304125 735310 437365 -7999.93 811304 217388 17414.8 795395 213125 -8000.02 855479 -11114.2 -7999.96 811304 217388 17414.8 735310 437365 -7999.93 750978 441563 17653.8 714510 577085 17798.2 811304 217388 17414.8 750978 441563 17653.8 771240 451800 54102 714510 577085 17798.2 811304 217388 17414.8 871148 -6915.66 17653.7 855479 -11114.2 -7999.96 907326 -142516 17798.2 811304 217388 17414.8 893813 -5649.88 54102 871148 -6915.66 17653.7 907326 -142516 17798.2 645932 158851 1.74033e6 638803 185460 1.74033e6 451468 108695 1.85902e6 445301 131712 1.85901e6 451468 108695 1.85902e6 445301 131712 1.85901e6 233728 52434 1.93282e6 228600 71573.2 1.93281e6 -929511 -146963 190274 -898025 -86393.4 104954 -859592 -230327 104848 -878483 -337403 190274 -821695 -371428 104918 -859592 -230327 104848 -929511 -146963 190274 -859592 -230327 104848 -878483 -337403 190274 -833334 -223291 54590.1 -893813 5650.07 54102 -859592 -230327 104848 -898025 -86393.4 104954 -893813 5650.07 54102 -859592 -230327 104848 -925688 273134 -7999.99 -907326 142516 17798.2 -855480 11114.2 -7999.93 -833334 -223291 54590.1 -893813 5650.07 54102 -811304 -217388 17414.8 -859592 -230327 104848 -771240 -451799 54102 -833334 -223291 54590.1 -821695 -371428 104918 -859592 -230327 104848 -771240 -451799 54102 -735310 -437365 -7999.96 -714509 -577085 17798.2 -665102 -699385 -8000 -833334 -223291 54590.1 -811304 -217388 17414.8 -771240 -451799 54102 -1.02448e6 -316872 514717 -1.04567e6 -237815 514717 -1.0639e6 -316052 728711 -1.08007e6 -258421 728568 -1.04567e6 -237815 514717 -1.0639e6 -316052 728711 -1.0639e6 -316052 728711 -1.08007e6 -258421 728568 -1.06592e6 -308510 957541 -1.07736e6 -265796 957541 -1.08007e6 -258421 728568 -1.06592e6 -308510 957541 -1.06592e6 -308510 957541 -1.07736e6 -265796 957541 -1.02063e6 -294621 1.18244e6 -1.03185e6 -255349 1.18266e6 -1.07736e6 -265796 957541 -1.02063e6 -294621 1.18244e6 -1.02063e6 -294621 1.18244e6 -1.03185e6 -255349 1.18266e6 -931709 -268607 1.39392e6 -941188 -233230 1.39392e6 -1.03185e6 -255349 1.18266e6 -931709 -268607 1.39392e6 -931709 -268607 1.39392e6 -941188 -233230 1.39392e6 -802818 -231669 1.58277e6 -811613 -200887 1.58279e6 -941188 -233230 1.39392e6 -802818 -231669 1.58277e6 -802818 -231669 1.58277e6 -811613 -200887 1.58279e6 -638819 -185397 1.74033e6 -645949 -158788 1.74033e6 -811613 -200887 1.58279e6 -638819 -185397 1.74033e6 -228632 -71454.9 1.93282e6 -233760 -52315.7 1.93281e6 2736.21 -10211.7 1.95786e6 -2790.79 10415.4 1.95783e6 -233760 -52315.7 1.93281e6 2736.21 -10211.7 1.95786e6 859591 230327 104848 878461 337481 190274 820909 374194 104954 897322 89180.7 104918 859591 230327 104848 929490 147041 190274 929490 147041 190274 878461 337481 190274 859591 230327 104848 771240 451800 54102 859591 230327 104848 833334 223291 54590.1 859591 230327 104848 820909 374194 104954 771240 451800 54102 714510 577085 17798.2 735310 437365 -7999.93 665102 699385 -7999.99 811304 217388 17414.8 833334 223291 54590.1 771240 451800 54102 893813 -5649.88 54102 833334 223291 54590.1 859591 230327 104848 893813 -5649.88 54102 897322 89180.7 104918 859591 230327 104848 907326 -142516 17798.2 925688 -273135 -8000 855479 -11114.2 -7999.96 893813 -5649.88 54102 833334 223291 54590.1 811304 217388 17414.8 1.02448e6 316878 514717 1.07939e6 258238 728711 1.04566e6 237822 514717 1.07939e6 258238 728711 1.06458e6 316235 728568 1.02448e6 316878 514717 1.06458e6 316235 728568 1.07737e6 265781 957541 1.07939e6 258238 728711 1.07737e6 265781 957541 1.06592e6 308495 957541 1.06458e6 316235 728568 1.06592e6 308495 957541 1.0312e6 255163 1.18244e6 1.07737e6 265781 957541 1.0312e6 255163 1.18244e6 1.02128e6 294784 1.18266e6 1.06592e6 308495 957541 1.02128e6 294784 1.18266e6 941187 233233 1.39392e6 1.0312e6 255163 1.18244e6 941187 233233 1.39392e6 931707 268611 1.39392e6 1.02128e6 294784 1.18266e6 931707 268611 1.39392e6 811094 200777 1.58277e6 941187 233233 1.39392e6 811094 200777 1.58277e6 803320 231833 1.58279e6 931707 268611 1.39392e6 803320 231833 1.58279e6 645932 158851 1.74033e6 811094 200777 1.58277e6 645932 158851 1.74033e6 638803 185460 1.74033e6 803320 231833 1.58279e6 228600 71573.2 1.93281e6 2736.21 -10211.7 1.95786e6 233728 52434 1.93282e6 2736.21 -10211.7 1.95786e6 -2790.79 10415.4 1.95783e6 228600 71573.2 1.93281e6</float_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-positions-array" count="222" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.ring-mesh-normals">
+          <float_array id="_0.ring-mesh-normals-array" count="666">0.897134 0.240387 0.370626 0.897134 0.240388 0.370626 0.897135 0.240387 0.370626 0.897134 0.240388 0.370627 0.879568 0.23568 0.413298 0.879568 0.23568 0.413298 0.879568 0.235679 0.413298 0.879568 0.23568 0.413298 0.810598 0.217199 0.543834 0.810598 0.217199 0.543834 0.810598 0.217198 0.543834 0.810598 0.217199 0.543834 0.816791 0.217349 0.534427 0.816791 0.217349 0.534427 0.816791 0.217349 0.534427 0.816791 0.217349 0.534427 0.825037 0.219564 0.520678 0.825037 0.219564 0.520678 0.825037 0.219564 0.520678 0.825037 0.219564 0.520678 0.816039 0.220166 0.534423 0.816039 0.220166 0.534423 0.816039 0.220166 0.534423 0.816039 0.220165 0.534423 0.824287 0.22237 0.520675 0.824287 0.222371 0.520675 0.824287 0.222371 0.520675 0.824287 0.22237 0.520675 0.491471 0.131608 -0.860892 0.491472 0.131602 -0.860893 0.491471 0.131609 -0.860892 0.491472 0.131601 -0.860893 0.30121 0.08061 -0.950145 0.301213 0.080593 -0.950145 0.30121 0.080611 -0.950144 0.301213 0.080592 -0.950145 -0.897134 -0.240386 0.370627 -0.897134 -0.240387 0.370626 -0.897134 -0.240387 0.370626 -0.897135 -0.240386 0.370627 -0.879567 -0.23568 0.413301 -0.879567 -0.23568 0.413301 -0.879567 -0.23568 0.413301 -0.879567 -0.23568 0.413301 -0.810591 -0.217197 0.543846 -0.81059 -0.217197 0.543846 -0.81059 -0.217197 0.543846 -0.810591 -0.217197 0.543846 -0.816029 -0.220163 0.534438 -0.816029 -0.220163 0.534438 -0.816029 -0.220163 0.534438 -0.816029 -0.220163 0.534438 -0.824289 -0.222371 0.520671 -0.824289 -0.222371 0.520671 -0.824289 -0.222371 0.520671 -0.824289 -0.222371 0.520671 -0.816782 -0.217347 0.534441 -0.816782 -0.217347 0.53444 -0.816782 -0.217348 0.53444 -0.816783 -0.217347 0.534441 -0.825042 -0.219565 0.52067 -0.825042 -0.219565 0.52067 -0.825042 -0.219566 0.52067 -0.825042 -0.219565 0.52067 -0.491428 -0.131765 -0.860893 -0.49143 -0.131761 -0.860893 -0.49143 -0.13176 -0.860892 -0.491428 -0.131766 -0.860893 -0.301155 -0.080811 -0.950145 -0.301161 -0.080794 -0.950144 -0.301161 -0.080793 -0.950144 -0.301154 -0.080812 -0.950145 0.850398 0.226729 0.474782 0.850398 0.226729 0.474782 0.850398 0.226729 0.474782 0.850087 0.228549 0.474466 0.850087 0.228549 0.474466 0.850087 0.228549 0.474466 0.850625 0.227924 0.473802 0.850625 0.227924 0.473802 0.850625 0.227924 0.473802 0.850156 0.2256 0.475752 0.850155 0.2256 0.475752 0.850155 0.2256 0.475752 0.847955 0.226074 0.47944 0.847955 0.226074 0.47944 0.847955 0.226074 0.47944 0.819873 0.219685 0.528722 0.819873 0.219685 0.528722 0.819873 0.219685 0.528722 0.823828 0.218745 0.522932 0.823828 0.218745 0.522932 0.823828 0.218745 0.522932 0.849056 0.229703 0.475752 0.849056 0.229703 0.475752 0.849056 0.229703 0.475752 0.84681 0.227671 0.480707 0.84681 0.227671 0.480707 0.84681 0.227671 0.480707 0.81987 0.219684 0.528727 0.81987 0.219684 0.528727 0.81987 0.219684 0.528727 0.822829 0.222475 0.522932 0.822828 0.222475 0.522932 0.822829 0.222475 0.522932 0.951155 0.254862 0.174211 0.951155 0.254862 0.174211 0.951155 0.254862 0.174211 0.947304 0.266289 0.178061 0.947304 0.266289 0.178061 0.947304 0.266289 0.178061 0.962806 0.270195 -0.000402 0.962806 0.270195 -0.000402 0.962806 0.270195 -0.000402 0.965921 0.258819 -0.003083 0.965921 0.258819 -0.003083 0.965921 0.258819 -0.003083 0.945211 0.253265 -0.205992 0.945211 0.253265 -0.205992 0.945211 0.253265 -0.205992 0.941234 0.270066 -0.202836 0.941234 0.270066 -0.202836 0.941234 0.270066 -0.202836 0.880124 0.253725 -0.401255 0.880124 0.253725 -0.401255 0.880124 0.253725 -0.401255 0.883604 0.236757 -0.403969 0.883604 0.236757 -0.403969 0.883604 0.236757 -0.403969 0.787639 0.211043 -0.578865 0.787639 0.211043 -0.578865 0.787639 0.211044 -0.578865 0.785115 0.224758 -0.577129 0.785115 0.224758 -0.577129 0.785115 0.224758 -0.577129 0.652642 0.187026 -0.73422 0.652642 0.187026 -0.73422 0.652642 0.187026 -0.73422 0.65467 0.175349 -0.735296 0.65467 0.175349 -0.735296 0.65467 0.175349 -0.735296 0.100566 0.026823 -0.994569 0.100566 0.026823 -0.994569 0.100566 0.026823 -0.994569 0.100778 0.025635 -0.994579 0.100778 0.025635 -0.994579 0.100778 0.025635 -0.994579 -0.849831 -0.228846 0.47478 -0.849831 -0.228846 0.47478 -0.849831 -0.228846 0.47478 -0.850472 -0.227115 0.474464 -0.850472 -0.227115 0.474464 -0.850472 -0.227115 0.474464 -0.850626 -0.227925 0.4738 -0.850626 -0.227925 0.4738 -0.850626 -0.227925 0.4738 -0.849059 -0.229704 0.475747 -0.849059 -0.229704 0.475747 -0.849059 -0.229704 0.475747 -0.847391 -0.228194 0.479434 -0.847391 -0.228194 0.479434 -0.847391 -0.228194 0.479434 -0.819862 -0.219681 0.52874 -0.819862 -0.219681 0.52874 -0.819862 -0.219681 0.52874 -0.822829 -0.222475 0.522932 -0.822829 -0.222475 0.522932 -0.822829 -0.222475 0.522932 -0.850158 -0.2256 0.475747 -0.850158 -0.2256 0.475747 -0.850158 -0.2256 0.475747 -0.847197 -0.226236 0.480703 -0.847197 -0.226236 0.480703 -0.847197 -0.226236 0.480703 -0.819863 -0.219682 0.528739 -0.819863 -0.219682 0.528739 -0.819863 -0.219682 0.528739 -0.823828 -0.218745 0.522932 -0.823828 -0.218745 0.522932 -0.823828 -0.218745 0.522932 -0.951155 -0.254861 0.174212 -0.951155 -0.254861 0.174212 -0.951155 -0.254861 0.174212 -0.953533 -0.243041 0.178061 -0.953533 -0.243041 0.178061 -0.953533 -0.243041 0.178061 -0.968911 -0.24741 -0.000402 -0.968911 -0.24741 -0.000402 -0.968911 -0.24741 -0.000402 -0.965921 -0.258819 -0.003082 -0.965921 -0.258819 -0.003082 -0.965921 -0.258819 -0.003082 -0.945209 -0.253273 -0.205994 -0.945209 -0.253273 -0.205994 -0.945209 -0.253273 -0.205994 -0.950166 -0.236731 -0.202836 -0.950166 -0.236731 -0.202836 -0.950166 -0.236731 -0.202836 -0.889073 -0.220327 -0.401254 -0.889073 -0.220327 -0.401254 -0.889073 -0.220327 -0.401254 -0.883602 -0.236762 -0.403968 -0.883602 -0.236762 -0.403968 -0.883602 -0.236762 -0.403968 -0.787637 -0.211048 -0.578866 -0.787637 -0.211048 -0.578867 -0.787637 -0.211048 -0.578866 -0.792307 -0.197912 -0.577131 -0.792307 -0.197912 -0.577131 -0.792307 -0.197912 -0.577131 -0.658719 -0.164353 -0.734219 -0.658719 -0.164353 -0.734219 -0.658719 -0.164353 -0.734219 -0.654636 -0.17548 -0.735295 -0.654636 -0.17548 -0.735295 -0.654636 -0.17548 -0.735295 -0.100504 -0.027053 -0.994569 -0.100504 -0.027053 -0.994569 -0.100504 -0.027053 -0.994569 -0.100094 -0.028188 -0.994579 -0.100094 -0.028188 -0.994579 -0.100094 -0.028188 -0.994579</float_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-normals-array" count="222" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.ring-mesh-map-channel1">
+          <float_array id="_0.ring-mesh-map-channel1-array" count="666">0.429085 0.556803 0 0.481293 0.974377 0 0.695824 0.556803 0 0.64358 0.974377 0 0.367043 0.331054 0 0.429085 0.556803 0 0.757978 0.331054 0 0.695824 0.556803 0 0.004664 0.526896 0 0.004664 0.991777 0 0.112683 0.991777 0 0.004664 0.526896 0 0.112683 0.991777 0 0.112766 0.526897 0 0.004664 0.526896 0 0.112817 0.298274 0 0.112683 0.991777 0 0.252502 0.526896 0 0.112766 0.526897 0 0.112817 0.298274 0 0.112683 0.991777 0 0.004664 0.526896 0 0.112766 0.526897 0 0.112817 0.298274 0 0.112683 0.991777 0 0.112766 0.526897 0 0.252502 0.526896 0 0.112817 0.298274 0 0.736992 0.445761 0 0.741279 0.62554 0 0.799687 0.445761 0 0.795513 0.62554 0 0.741279 0.62554 0 0.744139 0.811012 0 0.795513 0.62554 0 0.792804 0.811012 0 0.429085 0.556803 0 0.695824 0.556803 0 0.481293 0.974377 0 0.64358 0.974377 0 0.367043 0.331054 0 0.757978 0.331054 0 0.429085 0.556803 0 0.695824 0.556803 0 0.004664 0.526896 0 0.112683 0.991777 0 0.004664 0.991777 0 0.004664 0.526896 0 0.112683 0.991777 0 0.004664 0.526896 0 0.112766 0.526897 0 0.112817 0.298274 0 0.112683 0.991777 0 0.112766 0.526897 0 0.252502 0.526896 0 0.112817 0.298274 0 0.112683 0.991777 0 0.112766 0.526897 0 0.004664 0.526896 0 0.112817 0.298274 0 0.112683 0.991777 0 0.252502 0.526896 0 0.112766 0.526897 0 0.112817 0.298274 0 0.736992 0.445761 0 0.799687 0.445761 0 0.741279 0.62554 0 0.795513 0.62554 0 0.741279 0.62554 0 0.795513 0.62554 0 0.744139 0.811012 0 0.792804 0.811012 0 0.757978 0.331054 0 0.839999 0.172513 0 0.56069 0.172304 0 0.367043 0.331054 0 0.286955 0.17237 0 0.56069 0.172304 0 0.757978 0.331054 0 0.56069 0.172304 0 0.367043 0.331054 0 0.254258 0.991778 0 0.252502 0.526896 0 0.438242 0.991777 0 0.438243 0.706161 0 0.252502 0.526896 0 0.438242 0.991777 0 0.004664 0.053698 0 0.112817 0.298274 0 0.004664 0.526896 0 0.254258 0.991778 0 0.252502 0.526896 0 0.112683 0.991777 0 0.438242 0.991777 0 0.252502 0.526896 0 0.254258 0.991778 0 0.438243 0.706161 0 0.438242 0.991777 0 0.252502 0.526896 0 0.004664 0.526896 0 0.112817 0.298274 0 0.004664 0.053698 0 0.254258 0.991778 0 0.112683 0.991777 0 0.252502 0.526896 0 0.074387 0.16824 0 0.074387 0.006933 0 0.505594 0.147548 0 0.505569 0.02702 0 0.074387 0.006933 0 0.505594 0.147548 0 0.505594 0.147548 0 0.505569 0.02702 0 0.966609 0.138888 0 0.966609 0.037381 0 0.505569 0.02702 0 0.966609 0.138888 0 0.890201 0.193451 0 0.991806 0.193451 0 0.894091 0.591077 0 0.987925 0.591038 0 0.991806 0.193451 0 0.894091 0.591077 0 0.894091 0.591077 0 0.987925 0.591038 0 0.898948 0.993727 0 0.983104 0.993727 0 0.987925 0.591038 0 0.898948 0.993727 0 0.801997 0.30111 0 0.885665 0.30111 0 0.807298 0.647296 0 0.880421 0.646813 0 0.885665 0.30111 0 0.807298 0.647296 0 0.807298 0.647296 0 0.880421 0.646813 0 0.812437 0.992565 0 0.875367 0.992565 0 0.880421 0.646813 0 0.812437 0.992565 0 0.744139 0.811012 0 0.792804 0.811012 0 0.745167 0.994058 0 0.791995 0.994051 0 0.792804 0.811012 0 0.745167 0.994058 0 0.56069 0.172304 0 0.757978 0.331054 0 0.839999 0.172513 0 0.286955 0.17237 0 0.56069 0.172304 0 0.367043 0.331054 0 0.367043 0.331054 0 0.757978 0.331054 0 0.56069 0.172304 0 0.252502 0.526896 0 0.438242 0.991777 0 0.254258 0.991778 0 0.438242 0.991777 0 0.438243 0.706161 0 0.252502 0.526896 0 0.112817 0.298274 0 0.004664 0.526896 0 0.004664 0.053698 0 0.112683 0.991777 0 0.254258 0.991778 0 0.252502 0.526896 0 0.252502 0.526896 0 0.254258 0.991778 0 0.438242 0.991777 0 0.252502 0.526896 0 0.438243 0.706161 0 0.438242 0.991777 0 0.112817 0.298274 0 0.004664 0.053698 0 0.004664 0.526896 0 0.252502 0.526896 0 0.254258 0.991778 0 0.112683 0.991777 0 0.074387 0.006933 0 0.505594 0.147548 0 0.074387 0.16824 0 0.505594 0.147548 0 0.505569 0.02702 0 0.074387 0.006933 0 0.505569 0.02702 0 0.966609 0.138888 0 0.505594 0.147548 0 0.966609 0.138888 0 0.966609 0.037381 0 0.505569 0.02702 0 0.991806 0.193451 0 0.894091 0.591077 0 0.890201 0.193451 0 0.894091 0.591077 0 0.987925 0.591038 0 0.991806 0.193451 0 0.987925 0.591038 0 0.898948 0.993727 0 0.894091 0.591077 0 0.898948 0.993727 0 0.983104 0.993727 0 0.987925 0.591038 0 0.885665 0.30111 0 0.807298 0.647296 0 0.801997 0.30111 0 0.807298 0.647296 0 0.880421 0.646813 0 0.885665 0.30111 0 0.880421 0.646813 0 0.812437 0.992565 0 0.807298 0.647296 0 0.812437 0.992565 0 0.875367 0.992565 0 0.880421 0.646813 0 0.792804 0.811012 0 0.745167 0.994058 0 0.744139 0.811012 0 0.745167 0.994058 0 0.791995 0.994051 0 0.792804 0.811012 0</float_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-map-channel1-array" count="222" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="_0.ring-mesh-vertices">
+          <input semantic="POSITION" source="#_0.ring-mesh-positions"/>
+        </vertices>
+        <triangles material="ring_dusk" count="86">
+          <input semantic="VERTEX" source="#_0.ring-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#_0.ring-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#_0.ring-mesh-map-channel1" offset="2" set="1"/>
+          <p>2 0 2 1 1 1 0 2 0 1 1 1 2 0 2 3 3 3 6 4 6 5 5 5 4 6 4 5 5 5 6 4 6 7 7 7 10 8 10 9 9 9 8 10 8 9 9 9 10 8 10 11 11 11 14 12 14 13 13 13 12 14 12 13 13 13 14 12 14 15 15 15 18 16 18 17 17 17 16 18 16 17 17 17 18 16 18 19 19 19 22 20 22 21 21 21 20 22 20 21 21 21 22 20 22 23 23 23 26 24 26 25 25 25 24 26 24 25 25 25 26 24 26 27 27 27 30 28 30 29 29 29 28 30 28 29 29 29 30 28 30 31 31 31 34 32 34 33 33 33 32 34 32 33 33 33 34 32 34 35 35 35 38 36 38 37 37 37 36 38 36 37 37 37 38 36 38 39 39 39 42 40 42 41 41 41 40 42 40 41 41 41 42 40 42 43 43 43 46 44 46 45 45 45 44 46 44 45 45 45 46 44 46 47 47 47 50 48 50 49 49 49 48 50 48 49 49 49 50 48 50 51 51 51 54 52 54 53 53 53 52 54 52 53 53 53 54 52 54 55 55 55 58 56 58 57 57 57 56 58 56 57 57 57 58 56 58 59 59 59 62 60 62 61 61 61 60 62 60 61 61 61 62 60 62 63 63 63 66 64 66 65 65 65 64 66 64 65 65 65 66 64 66 67 67 67 70 68 70 69 69 69 68 70 68 69 69 69 70 68 70 71 71 71 74 72 74 73 73 73 72 74 72 75 75 75 76 76 76 77 77 77 80 78 80 79 79 79 78 80 78 81 81 81 82 82 82 83 83 83 86 84 86 85 85 85 84 86 84 87 87 87 88 88 88 89 89 89 92 90 92 91 91 91 90 92 90 93 93 93 94 94 94 95 95 95 98 96 98 97 97 97 96 98 96 99 99 99 100 100 100 101 101 101 104 102 104 103 103 103 102 104 102 105 105 105 106 106 106 107 107 107 110 108 110 109 109 109 108 110 108 111 111 111 112 112 112 113 113 113 116 114 116 115 115 115 114 116 114 117 117 117 118 118 118 119 119 119 122 120 122 121 121 121 120 122 120 123 123 123 124 124 124 125 125 125 128 126 128 127 127 127 126 128 126 129 129 129 130 130 130 131 131 131 134 132 134 133 133 133 132 134 132 135 135 135 136 136 136 137 137 137 140 138 140 139 139 139 138 140 138 141 141 141 142 142 142 143 143 143 146 144 146 145 145 145 144 146 144 147 147 147 148 148 148 149 149 149 152 150 152 151 151 151 150 152 150 153 153 153 154 154 154 155 155 155 158 156 158 157 157 157 156 158 156 159 159 159 160 160 160 161 161 161 164 162 164 163 163 163 162 164 162 165 165 165 166 166 166 167 167 167 170 168 170 169 169 169 168 170 168 171 171 171 172 172 172 173 173 173 176 174 176 175 175 175 174 176 174 177 177 177 178 178 178 179 179 179 182 180 182 181 181 181 180 182 180 183 183 183 184 184 184 185 185 185 188 186 188 187 187 187 186 188 186 189 189 189 190 190 190 191 191 191 194 192 194 193 193 193 192 194 192 195 195 195 196 196 196 197 197 197 200 198 200 199 199 199 198 200 198 201 201 201 202 202 202 203 203 203 206 204 206 205 205 205 204 206 204 207 207 207 208 208 208 209 209 209 212 210 212 211 211 211 210 212 210 213 213 213 214 214 214 215 215 215 218 216 218 217 217 217 216 218 216 219 219 219 220 220 220 221 221 221</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers>
+    <controller id="_5.basis-mesh-skin">
+      <skin source="#_5.basis-mesh">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="_5.basis-mesh-skin-joints">
+          <Name_array id="_5.basis-mesh-skin-joints-array" count="1">Bone1</Name_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-skin-joints-array" count="1" stride="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_5.basis-mesh-skin-bind_poses">
+          <float_array id="_5.basis-mesh-skin-bind_poses-array" count="16">0 1 0 0 -1 0 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-skin-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_5.basis-mesh-skin-weights">
+          <float_array id="_5.basis-mesh-skin-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#_5.basis-mesh-skin-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#_5.basis-mesh-skin-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#_5.basis-mesh-skin-bind_poses"/>
+        </joints>
+        <vertex_weights count="4">
+          <input semantic="JOINT" source="#_5.basis-mesh-skin-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#_5.basis-mesh-skin-weights" offset="1"/>
+          <vcount>1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="_4.threshold-mesh-skin">
+      <skin source="#_4.threshold-mesh">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="_4.threshold-mesh-skin-joints">
+          <Name_array id="_4.threshold-mesh-skin-joints-array" count="1">Bone1</Name_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-skin-joints-array" count="1" stride="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_4.threshold-mesh-skin-bind_poses">
+          <float_array id="_4.threshold-mesh-skin-bind_poses-array" count="16">0 1 0 0 -1 0 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-skin-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_4.threshold-mesh-skin-weights">
+          <float_array id="_4.threshold-mesh-skin-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#_4.threshold-mesh-skin-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#_4.threshold-mesh-skin-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#_4.threshold-mesh-skin-bind_poses"/>
+        </joints>
+        <vertex_weights count="4">
+          <input semantic="JOINT" source="#_4.threshold-mesh-skin-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#_4.threshold-mesh-skin-weights" offset="1"/>
+          <vcount>1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="_0.sky-mesh-skin">
+      <skin source="#_0.sky-mesh">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="_0.sky-mesh-skin-joints">
+          <Name_array id="_0.sky-mesh-skin-joints-array" count="1">Bone1</Name_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-skin-joints-array" count="1" stride="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.sky-mesh-skin-bind_poses">
+          <float_array id="_0.sky-mesh-skin-bind_poses-array" count="16">0 1 0 0 -1 0 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-skin-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.sky-mesh-skin-weights">
+          <float_array id="_0.sky-mesh-skin-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#_0.sky-mesh-skin-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#_0.sky-mesh-skin-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#_0.sky-mesh-skin-bind_poses"/>
+        </joints>
+        <vertex_weights count="37">
+          <input semantic="JOINT" source="#_0.sky-mesh-skin-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#_0.sky-mesh-skin-weights" offset="1"/>
+          <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+    <controller id="_0.ring-mesh-skin">
+      <skin source="#_0.ring-mesh">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="_0.ring-mesh-skin-joints">
+          <Name_array id="_0.ring-mesh-skin-joints-array" count="1">Bone1</Name_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-skin-joints-array" count="1" stride="1">
+              <param name="JOINT" type="Name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.ring-mesh-skin-bind_poses">
+          <float_array id="_0.ring-mesh-skin-bind_poses-array" count="16">0 1 0 0 -1 0 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-skin-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="_0.ring-mesh-skin-weights">
+          <float_array id="_0.ring-mesh-skin-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#_0.ring-mesh-skin-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#_0.ring-mesh-skin-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#_0.ring-mesh-skin-bind_poses"/>
+        </joints>
+        <vertex_weights count="222">
+          <input semantic="JOINT" source="#_0.ring-mesh-skin-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#_0.ring-mesh-skin-weights" offset="1"/>
+          <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 </vcount>
+          <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+  </library_controllers>
+  <library_visual_scenes>
+    <visual_scene id="unnamed_scene" name="unnamed_scene">
+      <node id="frame_sky-node" name="frame_sky" sid="Bone1" type="JOINT">
+        <translate>0 0 0</translate>
+        <rotate>0 0 -1 -90</rotate>
+      </node>
+      <node id="_5.basis-node" name="_5_basis" type="NODE">
+        <instance_controller url="#_5.basis-mesh-skin">
+          <skeleton>#frame_sky-node</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="basis_dusk" target="#basis_dusk">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="1"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="_4.threshold-node" name="_4_threshold" type="NODE">
+        <instance_controller url="#_4.threshold-mesh-skin">
+          <skeleton>#frame_sky-node</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="threshold_dusk" target="#threshold_dusk">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="1"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="_0.sky-node" name="_0_sky" type="NODE">
+        <instance_controller url="#_0.sky-mesh-skin">
+          <skeleton>#frame_sky-node</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="sky_dusk" target="#sky_dusk">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="1"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <node id="_0.ring-node" name="_0_ring" type="NODE">
+        <instance_controller url="#_0.ring-mesh-skin">
+          <skeleton>#frame_sky-node</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="ring_dusk" target="#ring_dusk">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="1"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+      </node>
+      <extra>
+        <technique profile="FCOLLADA">
+          <start_time>0</start_time>
+          <end_time>3.33333</end_time>
+        </technique>
+      </extra>
+      <extra>
+        <technique profile="MAX3D">
+          <frame_rate>30</frame_rate>
+        </technique>
+      </extra>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#unnamed_scene"/>
+  </scene>
+</COLLADA>

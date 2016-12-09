@@ -33,7 +33,7 @@ public class MenuSelect : MonoBehaviour
         }
     }
 
-    void OnSelect()
+    void OnReleased()
     {
         if (isReasons)
         {
